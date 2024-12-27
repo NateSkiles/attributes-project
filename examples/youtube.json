@@ -1,0 +1,1202 @@
+{
+  "search_metadata": {
+    "id": "6764b4ab5f068ca10a21760b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4a4d43e536b51aa1/6764b4ab5f068ca10a21760b.json",
+    "created_at": "2024-12-20 00:04:59 UTC",
+    "processed_at": "2024-12-20 00:04:59 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Microsoft",
+    "raw_html_file": "https://serpapi.com/searches/4a4d43e536b51aa1/6764b4ab5f068ca10a21760b.html",
+    "total_time_taken": 1.19
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Microsoft"
+  },
+  "search_information": {
+    "total_results": 48784475,
+    "video_results_state": "Results for exact spelling"
+  },
+  "channel_results": [
+    {
+      "position_on_page": 1,
+      "title": "Microsoft",
+      "link": "https://www.youtube.com/@Microsoft",
+      "verified": true,
+      "handle": "@Microsoft",
+      "subscribers": 1810000,
+      "description": "Our mission is to empower every person and every organization on the planet to achieve more. Subscribe to Microsoft's official ...",
+      "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s88-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "position_on_page": 6,
+      "title": "Microsoft 365",
+      "link": "https://www.youtube.com/@Microsoft365",
+      "verified": true,
+      "handle": "@Microsoft365",
+      "subscribers": 665000,
+      "description": "Microsoft 365 is the world's productivity cloud designed to help you do more with less across work and life with innovative ...",
+      "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_kXVj3MGEZAiw5LFOtWMYpl9EHk45elb6SpEWfIigi3_3M=s88-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "position_on_page": 23,
+      "title": "Microsoft Cloud",
+      "link": "https://www.youtube.com/@MicrosoftCloud",
+      "verified": true,
+      "handle": "@MicrosoftCloud",
+      "subscribers": 92200,
+      "description": "Welcome to the official Microsoft Cloud YouTube Channel. Subscribe to our channel and watch the latest products & solutions ...",
+      "thumbnail": "https://yt3.ggpht.com/6V3yQH6GkxPmKPVRWqZe6E0L9t3CCyRMeUjaKwZzzB7jfAwPuRz96eBBGMh8u494mofOouweNGw=s88-c-k-c0x00ffffff-no-rj-mo"
+    }
+  ],
+  "latest_from_microsoft": [
+    {
+      "position_on_page": 2,
+      "title": "Introducing SPARROW: Harnessing AI to protect our planet's biodiversity in the most remote places",
+      "link": "https://www.youtube.com/watch?v=x-J16ow5hyI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=x-J16ow5hyI",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7 hours ago",
+      "views": 745,
+      "length": "2:04",
+      "description": "Over the past 50 years, we've witnessed a troubling erosion of our planet's biodiversity, including a 70% decline in vertebrate ...",
+      "extensions": ["New", "CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/x-J16ow5hyI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_-0-lq-EDLi_TQ5PUQyBzJFGSxA",
+        "rich": "https://i.ytimg.com/an_webp/x-J16ow5hyI/mqdefault_6s.webp?du=3000&sqp=COzhkrsG&rs=AOn4CLCqqQIBduR1FFh46HzJV-Rbj_5fQQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Satya Nadella 2024: Stories of AI Impact",
+      "link": "https://www.youtube.com/watch?v=yildncr3VEg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=yildncr3VEg",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 days ago",
+      "views": 14451,
+      "length": "2:02",
+      "description": "The pace of AI innovation this year has been remarkable. But looking back, what stands out most is the incredible speed at which ...",
+      "extensions": ["New", "CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yildncr3VEg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnaHSylfIyvUWBv6G4QXKgCL2sGw",
+        "rich": "https://i.ytimg.com/an_webp/yildncr3VEg/mqdefault_6s.webp?du=3000&sqp=CIDlkrsG&rs=AOn4CLARH23mjTTR4x0f-7gVmWGkVRnpaQ"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "How businesses around the world are tackling sustainability | Cloud Cultures",
+      "link": "https://www.youtube.com/watch?v=k5M9tW_dEZQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=k5M9tW_dEZQ",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7 days ago",
+      "views": 1077,
+      "length": "5:36",
+      "description": "Cloud Cultures explores what happens when technology and culture converge. Discover how rich history and tradition form the ...",
+      "extensions": ["4K", "CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/k5M9tW_dEZQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcfs0lw8CuBJb6itZgzD45CQdRdg",
+        "rich": "https://i.ytimg.com/an_webp/k5M9tW_dEZQ/mqdefault_6s.webp?du=3000&sqp=CNzgkrsG&rs=AOn4CLC6qvgIREw5nGoHE9I9YyAFig5DQg"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "Jaime Teevan, Microsoft's Chief Scientist, on the Unexplored Possibilities of AI",
+      "link": "https://www.youtube.com/watch?v=Tj7aZ8bMzHo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=Tj7aZ8bMzHo",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7 days ago",
+      "views": 956,
+      "length": "29:31",
+      "description": "If you want to have a fascinating conversation about AI, talk to Jaime Teevan. In her recent discussion with WorkLab podcast host ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tj7aZ8bMzHo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrDdrfHLuVJ499-6JSU3CeS4Dmcg"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "Year in Review 2024",
+      "link": "https://www.youtube.com/watch?v=M8NH3pKAA08",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=M8NH3pKAA08",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9 days ago",
+      "views": 44420,
+      "length": "33:43",
+      "description": "As 2024 comes to an end, we take a look back at some of the biggest themes that emerged on Behind the Tech over this ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/M8NH3pKAA08/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm75yQKNiLMhiLgCW7E_ioCRbIcg",
+        "rich": "https://i.ytimg.com/an_webp/M8NH3pKAA08/mqdefault_6s.webp?du=3000&sqp=CL3gkrsG&rs=AOn4CLBFAGxIGeJQE2xsxC6pifIhXKEBQg"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "Microsoft Copilot+ PCs | Marvel Studios’ Captain America: Brave New World – “Wingman\"",
+      "link": "https://www.youtube.com/watch?v=uPm0SQD4blU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=uPm0SQD4blU",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "13 days ago",
+      "views": 50525,
+      "length": "1:01",
+      "description": "Captain America counts on his copilot for mission support. Falcon relies on Copilot+ PC to level up his wing designs. To celebrate ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uPm0SQD4blU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQf8ICYabLryPEuPgh31roWV1-iw",
+        "rich": "https://i.ytimg.com/an_webp/uPm0SQD4blU/mqdefault_6s.webp?du=3000&sqp=CPDYkrsG&rs=AOn4CLCMBgn30MtyoS6YhrBN_W2owcEu-Q"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "Fighting deepfakes with more transparency about AI",
+      "link": "https://www.youtube.com/watch?v=hZzM7bQIZ_Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=hZzM7bQIZ_Y",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 weeks ago",
+      "views": 713,
+      "length": "1:08",
+      "description": "Generative AI is revolutionizing content creation, but it also poses risks like deepfakes. Discover how Microsoft's Content ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hZzM7bQIZ_Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTw8K3NmZyae1LPvN2GR43UfSD_Q",
+        "rich": "https://i.ytimg.com/an_webp/hZzM7bQIZ_Y/mqdefault_6s.webp?du=3000&sqp=CPbhkrsG&rs=AOn4CLD8WOagcDob3OR3ptlyAWp-ahFE2Q"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "Partnering for inclusion and accessibility | People of Microsoft",
+      "link": "https://www.youtube.com/watch?v=TbakoIT_UNM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=TbakoIT_UNM",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 weeks ago",
+      "views": 722,
+      "length": "1:58",
+      "description": "Jessica Rafuse, Director of Accessibility Partnerships at Microsoft, views her disability as a strength. Drawing from personal ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TbakoIT_UNM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM7q8ih2_kL9_Sxo_444qHMGo-ig",
+        "rich": "https://i.ytimg.com/an_webp/TbakoIT_UNM/mqdefault_6s.webp?du=3000&sqp=CN26krsG&rs=AOn4CLCOUbrys12R1XUb430Z1QUdJUUMdQ"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "Bringing ourselves to the work of improving accessibility | People of Microsoft",
+      "link": "https://www.youtube.com/watch?v=zwVB8jInr8g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=zwVB8jInr8g",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 weeks ago",
+      "views": 537,
+      "length": "2:00",
+      "description": "Roberto Perez, Technical Program Manager at Microsoft, refuses to let his blindness keep him from creating solutions for those ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zwVB8jInr8g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWknI6JfW4Rgicb5xNMEGkFfU7DA",
+        "rich": "https://i.ytimg.com/an_webp/zwVB8jInr8g/mqdefault_6s.webp?du=3000&sqp=CKCxkrsG&rs=AOn4CLBpHmcL_eX5U6Oc8YiDvNq8zqoeww"
+      }
+    },
+    {
+      "position_on_page": "hidden",
+      "title": "How a military veteran found empowerment in her ADHD and autism | People of Microsoft",
+      "link": "https://www.youtube.com/watch?v=300SZmEcQOE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=300SZmEcQOE",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 weeks ago",
+      "views": 261,
+      "length": "2:02",
+      "description": "Ryen Macababbad, Principal Security Program Manager at Microsoft, harnesses her ADHD and autism to her advantage in work ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/300SZmEcQOE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz6Jrmlg8bzIsSBFod2mLd5_ri4Q",
+        "rich": "https://i.ytimg.com/an_webp/300SZmEcQOE/mqdefault_6s.webp?du=3000&sqp=CNrDkrsG&rs=AOn4CLBSBui9vzQrimUQnjIqSr77TIYV-Q"
+      }
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 4,
+      "shorts": [
+        {
+          "title": "Satya Nadella 2024: Stories of AI Impact",
+          "link": "https://www.youtube.com/shorts/gDZJPVtMW9I",
+          "thumbnail": "https://i.ytimg.com/vi/gDZJPVtMW9I/frame0.jpg",
+          "views_original": "1.6K views",
+          "views": 1600,
+          "video_id": "gDZJPVtMW9I"
+        },
+        {
+          "title": "Year in Review 2024 | Behind the Tech Podcast",
+          "link": "https://www.youtube.com/shorts/pPzriIqOxDE",
+          "thumbnail": "https://i.ytimg.com/vi/pPzriIqOxDE/frame0.jpg",
+          "views_original": "13K views",
+          "views": 13000,
+          "video_id": "pPzriIqOxDE"
+        },
+        {
+          "title": "An inside look at Microsoft's Inclusive Tech Lab",
+          "link": "https://www.youtube.com/shorts/5uByaIB6rzU",
+          "thumbnail": "https://i.ytimg.com/vi/5uByaIB6rzU/frame0.jpg",
+          "views_original": "2.6K views",
+          "views": 2600,
+          "video_id": "5uByaIB6rzU"
+        },
+        {
+          "title": "Introducing Windows 365 Link | Microsoft Ignite 2024",
+          "link": "https://www.youtube.com/shorts/PmZFoGQgVhI",
+          "thumbnail": "https://i.ytimg.com/vi/PmZFoGQgVhI/frame0.jpg",
+          "views_original": "3.6K views",
+          "views": 3600,
+          "video_id": "PmZFoGQgVhI"
+        },
+        {
+          "title": "Copilot Pages, the first artifact of the AI age | Microsoft Ignite 2024",
+          "link": "https://www.youtube.com/shorts/2ZrO2ovBobw",
+          "thumbnail": "https://i.ytimg.com/vi/2ZrO2ovBobw/frame0.jpg",
+          "views_original": "2.9K views",
+          "views": 2900,
+          "video_id": "2ZrO2ovBobw"
+        },
+        {
+          "title": "With the Earth Copilot, Microsoft AI is making NASA's satellite data accessible to all.",
+          "link": "https://www.youtube.com/shorts/QQ0dhWZGKgw",
+          "thumbnail": "https://i.ytimg.com/vi/QQ0dhWZGKgw/frame0.jpg",
+          "views_original": "2.8K views",
+          "views": 2800,
+          "video_id": "QQ0dhWZGKgw"
+        },
+        {
+          "title": "Copilot in Excel is making next-level data analysis available for all",
+          "link": "https://www.youtube.com/shorts/yowxzflFrf4",
+          "thumbnail": "https://i.ytimg.com/vi/yowxzflFrf4/frame0.jpg",
+          "views_original": "3K views",
+          "views": 3000,
+          "video_id": "yowxzflFrf4"
+        },
+        {
+          "title": "Satya Nadella on transforming productivity with Copilot | Microsoft Ignite 2024",
+          "link": "https://www.youtube.com/shorts/kLLDuvGRQoM",
+          "thumbnail": "https://i.ytimg.com/vi/kLLDuvGRQoM/frame0.jpg",
+          "views_original": "154K views",
+          "views": 154000,
+          "video_id": "kLLDuvGRQoM"
+        },
+        {
+          "title": "Highlights from Satya Nadella's Ignite 2024 Keynote",
+          "link": "https://www.youtube.com/shorts/OfiZmrpz5gk",
+          "thumbnail": "https://i.ytimg.com/vi/OfiZmrpz5gk/frame0.jpg",
+          "views_original": "319K views",
+          "views": 319000,
+          "video_id": "OfiZmrpz5gk"
+        },
+        {
+          "title": "Announcing Zero Day Quest, a hacking event focused on securing Cloud and AI | Microsoft Ignite 2024",
+          "link": "https://www.youtube.com/shorts/Ac069ty_E9o",
+          "thumbnail": "https://i.ytimg.com/vi/Ac069ty_E9o/frame0.jpg",
+          "views_original": "2.6K views",
+          "views": 2600,
+          "video_id": "Ac069ty_E9o"
+        },
+        {
+          "title": "Refik Anadol and Kevin Scott discuss the intersection of AI and Art | Behind the Tech",
+          "link": "https://www.youtube.com/shorts/UrA6-XxgUAk",
+          "thumbnail": "https://i.ytimg.com/vi/UrA6-XxgUAk/frame0.jpg",
+          "views_original": "19K views",
+          "views": 19000,
+          "video_id": "UrA6-XxgUAk"
+        },
+        {
+          "title": "Inside one of the quietest rooms on Earth",
+          "link": "https://www.youtube.com/shorts/oA176royTTU",
+          "thumbnail": "https://i.ytimg.com/vi/oA176royTTU/frame0.jpg",
+          "views_original": "3.3K views",
+          "views": 3300,
+          "video_id": "oA176royTTU"
+        },
+        {
+          "title": "Seeing with AI",
+          "link": "https://www.youtube.com/shorts/DovB0pJ3AeU",
+          "thumbnail": "https://i.ytimg.com/vi/DovB0pJ3AeU/frame0.jpg",
+          "views_original": "4.1K views",
+          "views": 4100,
+          "video_id": "DovB0pJ3AeU"
+        },
+        {
+          "title": "Pianists and Programmers battle with great machines | Behind the Tech",
+          "link": "https://www.youtube.com/shorts/LPVMpXPU9eU",
+          "thumbnail": "https://i.ytimg.com/vi/LPVMpXPU9eU/frame0.jpg",
+          "views_original": "54K views",
+          "views": 54000,
+          "video_id": "LPVMpXPU9eU"
+        },
+        {
+          "title": "How AI enables team success",
+          "link": "https://www.youtube.com/shorts/Si-jK2bZvsY",
+          "thumbnail": "https://i.ytimg.com/vi/Si-jK2bZvsY/frame0.jpg",
+          "views_original": "1.8K views",
+          "views": 1800,
+          "video_id": "Si-jK2bZvsY"
+        },
+        {
+          "title": "@surface shortcuts at your fingertips",
+          "link": "https://www.youtube.com/shorts/7ptCLRXWUiY",
+          "thumbnail": "https://i.ytimg.com/vi/7ptCLRXWUiY/frame0.jpg",
+          "views_original": "4.9K views",
+          "views": 4900,
+          "video_id": "7ptCLRXWUiY"
+        },
+        {
+          "title": "How AI makes space for human connection",
+          "link": "https://www.youtube.com/shorts/GP1waJFwljE",
+          "thumbnail": "https://i.ytimg.com/vi/GP1waJFwljE/frame0.jpg",
+          "views_original": "1.6K views",
+          "views": 1600,
+          "video_id": "GP1waJFwljE"
+        },
+        {
+          "title": "Protecting the Amazon from deforestation with Microsoft AI",
+          "link": "https://www.youtube.com/shorts/tHY3Gk6kH4k",
+          "thumbnail": "https://i.ytimg.com/vi/tHY3Gk6kH4k/frame0.jpg",
+          "views_original": "3.3M views",
+          "views": 3300000,
+          "video_id": "tHY3Gk6kH4k"
+        },
+        {
+          "title": "Watch the latest episode of The Prompt with Microsoft's Chief Questions Officer Trevor Noah",
+          "link": "https://www.youtube.com/shorts/PZ8sl6gGfo8",
+          "thumbnail": "https://i.ytimg.com/vi/PZ8sl6gGfo8/frame0.jpg",
+          "views_original": "2.4K views",
+          "views": 2400,
+          "video_id": "PZ8sl6gGfo8"
+        },
+        {
+          "title": "Real or artificial?",
+          "link": "https://www.youtube.com/shorts/0XnZslVptek",
+          "thumbnail": "https://i.ytimg.com/vi/0XnZslVptek/frame0.jpg",
+          "views_original": "5K views",
+          "views": 5000,
+          "video_id": "0XnZslVptek"
+        },
+        {
+          "title": "It all just clicks into place @Surface",
+          "link": "https://www.youtube.com/shorts/cldlXRawf0I",
+          "thumbnail": "https://i.ytimg.com/vi/cldlXRawf0I/frame0.jpg",
+          "views_original": "5.1K views",
+          "views": 5100,
+          "video_id": "cldlXRawf0I"
+        },
+        {
+          "title": "Why adaptive leadership is in the spotlight",
+          "link": "https://www.youtube.com/shorts/99XnFEiEFzM",
+          "thumbnail": "https://i.ytimg.com/vi/99XnFEiEFzM/frame0.jpg",
+          "views_original": "1.1K views",
+          "views": 1100,
+          "video_id": "99XnFEiEFzM"
+        },
+        {
+          "title": "We all have that one coworker",
+          "link": "https://www.youtube.com/shorts/Ph-a0cn_KWc",
+          "thumbnail": "https://i.ytimg.com/vi/Ph-a0cn_KWc/frame0.jpg",
+          "views_original": "9.3K views",
+          "views": 9300,
+          "video_id": "Ph-a0cn_KWc"
+        },
+        {
+          "title": "Reinventing business with AI",
+          "link": "https://www.youtube.com/shorts/d-XeZ42QZIw",
+          "thumbnail": "https://i.ytimg.com/vi/d-XeZ42QZIw/frame0.jpg",
+          "views_original": "2.1K views",
+          "views": 2100,
+          "video_id": "d-XeZ42QZIw"
+        },
+        {
+          "title": "With Copilot, you no longer have to awkwardly ask your coworker what that meeting is about.",
+          "link": "https://www.youtube.com/shorts/RsMClsBm5FQ",
+          "thumbnail": "https://i.ytimg.com/vi/RsMClsBm5FQ/frame0.jpg",
+          "views_original": "1.6K views",
+          "views": 1600,
+          "video_id": "RsMClsBm5FQ"
+        },
+        {
+          "title": "Improve screen visibility on @surface #Microsoft #shorts #accessibilty",
+          "link": "https://www.youtube.com/shorts/lLVmisicmCA",
+          "thumbnail": "https://i.ytimg.com/vi/lLVmisicmCA/frame0.jpg",
+          "views_original": "11K views",
+          "views": 11000,
+          "video_id": "lLVmisicmCA"
+        },
+        {
+          "title": "How to customize quick actions toolbar in Windows",
+          "link": "https://www.youtube.com/shorts/5ND5mb__G9g",
+          "thumbnail": "https://i.ytimg.com/vi/5ND5mb__G9g/frame0.jpg",
+          "views_original": "778 views",
+          "views": 778,
+          "video_id": "5ND5mb__G9g"
+        },
+        {
+          "title": "Windows makes nearby photo sharing simple @MicrosoftWindows #Microsof #shorts #photos #tipsandtricks",
+          "link": "https://www.youtube.com/shorts/bNpNraJw01c",
+          "thumbnail": "https://i.ytimg.com/vi/bNpNraJw01c/frame0.jpg",
+          "views_original": "1.8K views",
+          "views": 1800,
+          "video_id": "bNpNraJw01c"
+        },
+        {
+          "title": "Slow down with this chill Windows remix #Microsoft #shorts #chillvibesonly",
+          "link": "https://www.youtube.com/shorts/M6hCXrsBuAM",
+          "thumbnail": "https://i.ytimg.com/vi/M6hCXrsBuAM/frame0.jpg",
+          "views_original": "3.6K views",
+          "views": 3600,
+          "video_id": "M6hCXrsBuAM"
+        },
+        {
+          "title": "Sal Khan from Khan Academy talks generative AI in education | Behind the Tech",
+          "link": "https://www.youtube.com/shorts/o1zuuy1XaNA",
+          "thumbnail": "https://i.ytimg.com/vi/o1zuuy1XaNA/frame0.jpg",
+          "views_original": "79K views",
+          "views": 79000,
+          "video_id": "o1zuuy1XaNA"
+        },
+        {
+          "title": "We got the team together for a Microsoft Flight Simulator landing challenge. 10/10 would do again.",
+          "link": "https://www.youtube.com/shorts/oNcFGcoVQ1g",
+          "thumbnail": "https://i.ytimg.com/vi/oNcFGcoVQ1g/frame0.jpg",
+          "views_original": "3.2K views",
+          "views": 3200,
+          "video_id": "oNcFGcoVQ1g"
+        },
+        {
+          "title": "Petition to bring back 1997-era ads #Microsoft #nostalgia #90skids",
+          "link": "https://www.youtube.com/shorts/Xdr3LYh3AA8",
+          "thumbnail": "https://i.ytimg.com/vi/Xdr3LYh3AA8/frame0.jpg",
+          "views_original": "2.1K views",
+          "views": 2100,
+          "video_id": "Xdr3LYh3AA8"
+        },
+        {
+          "title": "Chef Lenora was on a mission to get an updated review",
+          "link": "https://www.youtube.com/shorts/-AvZKsN61nI",
+          "thumbnail": "https://i.ytimg.com/vi/-AvZKsN61nI/frame0.jpg",
+          "views_original": "5K views",
+          "views": 5000,
+          "video_id": "-AvZKsN61nI"
+        },
+        {
+          "title": "Anyone else still thinking about that BGC Mac? 😍",
+          "link": "https://www.youtube.com/shorts/gSnHp3Yr10s",
+          "thumbnail": "https://i.ytimg.com/vi/gSnHp3Yr10s/frame0.jpg",
+          "views_original": "2.9K views",
+          "views": 2900,
+          "video_id": "gSnHp3Yr10s"
+        },
+        {
+          "title": "Ethan Mollick, on future opportunities with AI in education | Behind the Tech",
+          "link": "https://www.youtube.com/shorts/VBOhyt1TNX8",
+          "thumbnail": "https://i.ytimg.com/vi/VBOhyt1TNX8/frame0.jpg",
+          "views_original": "47K views",
+          "views": 47000,
+          "video_id": "VBOhyt1TNX8"
+        },
+        {
+          "title": "A few minutes of extra sleep? Yes, chef! #KeithLee #TheReheatWithKeithLee",
+          "link": "https://www.youtube.com/shorts/rm6C6ub0-2E",
+          "thumbnail": "https://i.ytimg.com/vi/rm6C6ub0-2E/frame0.jpg",
+          "views_original": "3.6K views",
+          "views": 3600,
+          "video_id": "rm6C6ub0-2E"
+        },
+        {
+          "title": "Introducing The Reheat with Keith Lee, Presented by Microsoft. Episode 1 drops here on June 10.🔥",
+          "link": "https://www.youtube.com/shorts/orCxtN-KnYA",
+          "thumbnail": "https://i.ytimg.com/vi/orCxtN-KnYA/frame0.jpg",
+          "views_original": "4.4K views",
+          "views": 4400,
+          "video_id": "orCxtN-KnYA"
+        },
+        {
+          "title": "On June 5 we’re bringing the heat. Stay tuned🔥 #KeithLee #TheReheatWithKeithLee",
+          "link": "https://www.youtube.com/shorts/44pLifmiJtQ",
+          "thumbnail": "https://i.ytimg.com/vi/44pLifmiJtQ/frame0.jpg",
+          "views_original": "3K views",
+          "views": 3000,
+          "video_id": "44pLifmiJtQ"
+        },
+        {
+          "title": "Basketball and STEM are a slam dunk | Microsoft and WNBA",
+          "link": "https://www.youtube.com/shorts/55Ss9C82C7I",
+          "thumbnail": "https://i.ytimg.com/vi/55Ss9C82C7I/frame0.jpg",
+          "views_original": "3.4K views",
+          "views": 3400,
+          "video_id": "55Ss9C82C7I"
+        },
+        {
+          "title": "An open-source screen reader for all #shorts #microsoft #github #coding #screenreader",
+          "link": "https://www.youtube.com/shorts/0JLNW88Lxqg",
+          "thumbnail": "https://i.ytimg.com/vi/0JLNW88Lxqg/frame0.jpg",
+          "views_original": "1.9M views",
+          "views": 1900000,
+          "video_id": "0JLNW88Lxqg"
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "shorts": [
+        {
+          "title": "Google vs. Microsoft",
+          "link": "https://www.youtube.com/shorts/KGiNh2c7c08",
+          "thumbnail": "https://i.ytimg.com/vi/KGiNh2c7c08/frame0.jpg",
+          "views_original": "436K views",
+          "views": 436000,
+          "video_id": "KGiNh2c7c08"
+        },
+        {
+          "title": "How to Get Microsoft 365 for FREE",
+          "link": "https://www.youtube.com/shorts/H3ix2t4I7UU",
+          "thumbnail": "https://i.ytimg.com/vi/H3ix2t4I7UU/frame0.jpg",
+          "views_original": "3.7M views",
+          "views": 3700000,
+          "video_id": "H3ix2t4I7UU"
+        },
+        {
+          "title": "A day in the life of a Software Developer at Microsoft | Vasundhra's Journey @microsoftidc 🥰",
+          "link": "https://www.youtube.com/shorts/mJqDbQaM34Y",
+          "thumbnail": "https://i.ytimg.com/vi/mJqDbQaM34Y/frame0.jpg",
+          "views_original": "46K views",
+          "views": 46000,
+          "video_id": "mJqDbQaM34Y"
+        },
+        {
+          "title": "Meta and Microsoft interview problem",
+          "link": "https://www.youtube.com/shorts/QbNX-zP-Duw",
+          "thumbnail": "https://i.ytimg.com/vi/QbNX-zP-Duw/frame0.jpg",
+          "views_original": "24K views",
+          "views": 24000,
+          "video_id": "QbNX-zP-Duw"
+        },
+        {
+          "title": "Why Microsoft Skipped Windows 9 #Shorts",
+          "link": "https://www.youtube.com/shorts/F4x_L-bCYBA",
+          "thumbnail": "https://i.ytimg.com/vi/F4x_L-bCYBA/frame0.jpg",
+          "views_original": "4.5M views",
+          "views": 4500000,
+          "video_id": "F4x_L-bCYBA"
+        },
+        {
+          "title": "Microsoft’s ‘Blue Screen of Death’ signaled IT trouble across the world",
+          "link": "https://www.youtube.com/shorts/6PzzKHYI8JQ",
+          "thumbnail": "https://i.ytimg.com/vi/6PzzKHYI8JQ/frame0.jpg",
+          "views_original": "16K views",
+          "views": 16000,
+          "video_id": "6PzzKHYI8JQ"
+        },
+        {
+          "title": "5 Things about Microsoft you didn't know",
+          "link": "https://www.youtube.com/shorts/djYrmRzQMeE",
+          "thumbnail": "https://i.ytimg.com/vi/djYrmRzQMeE/frame0.jpg",
+          "views_original": "1.1M views",
+          "views": 1100000,
+          "video_id": "djYrmRzQMeE"
+        },
+        {
+          "title": "How CrowdStrike broke Windows computers everywhere. #mkbhd #waveformpodcast #microsoft",
+          "link": "https://www.youtube.com/shorts/F2yv30kqSg8",
+          "thumbnail": "https://i.ytimg.com/vi/F2yv30kqSg8/frame0.jpg",
+          "views_original": "48K views",
+          "views": 48000,
+          "video_id": "F2yv30kqSg8"
+        },
+        {
+          "title": "Microsoft Salary Revealed! 🚀",
+          "link": "https://www.youtube.com/shorts/G2r4Yxx4xNc",
+          "thumbnail": "https://i.ytimg.com/vi/G2r4Yxx4xNc/frame0.jpg",
+          "views_original": "244K views",
+          "views": 244000,
+          "video_id": "G2r4Yxx4xNc"
+        },
+        {
+          "title": "How Microsoft feeds gamepass",
+          "link": "https://www.youtube.com/shorts/yoFHOUmaqQQ",
+          "thumbnail": "https://i.ytimg.com/vi/yoFHOUmaqQQ/frame0.jpg",
+          "views_original": "48M views",
+          "views": 48000000,
+          "video_id": "yoFHOUmaqQQ"
+        },
+        {
+          "title": "Microsoft Outage Today | Global Microsoft Outage Affects Multiple Systems",
+          "link": "https://www.youtube.com/shorts/EMezJH-IK88",
+          "thumbnail": "https://i.ytimg.com/vi/EMezJH-IK88/frame0.jpg",
+          "views_original": "6K views",
+          "views": 6000,
+          "video_id": "EMezJH-IK88"
+        },
+        {
+          "title": "Is Microsoft Recall MANDATORY Spyware now? #shorts #microsoft #ai #privacy #linux",
+          "link": "https://www.youtube.com/shorts/sfZs5sn15p0",
+          "thumbnail": "https://i.ytimg.com/vi/sfZs5sn15p0/frame0.jpg",
+          "views_original": "180K views",
+          "views": 180000,
+          "video_id": "sfZs5sn15p0"
+        },
+        {
+          "title": "Microsoft's New Copilot + PCs Look Amazing",
+          "link": "https://www.youtube.com/shorts/LsCoz0JHpVY",
+          "thumbnail": "https://i.ytimg.com/vi/LsCoz0JHpVY/frame0.jpg",
+          "views_original": "106K views",
+          "views": 106000,
+          "video_id": "LsCoz0JHpVY"
+        },
+        {
+          "title": "The Value of Independent Negotiators with Microsoft",
+          "link": "https://www.youtube.com/shorts/DgA6eYCsxWI",
+          "thumbnail": "https://i.ytimg.com/vi/DgA6eYCsxWI/frame0.jpg",
+          "views_original": "554 views",
+          "views": 554,
+          "video_id": "DgA6eYCsxWI"
+        },
+        {
+          "title": "Microsoft Making Local Accounts Harder",
+          "link": "https://www.youtube.com/shorts/qwdVSXlS5Fk",
+          "thumbnail": "https://i.ytimg.com/vi/qwdVSXlS5Fk/frame0.jpg",
+          "views_original": "924K views",
+          "views": 924000,
+          "video_id": "qwdVSXlS5Fk"
+        },
+        {
+          "title": "Day in the life of a Microsoft Software Engineer | Mini Vlog | Day 4/75 💯 #codestrong75",
+          "link": "https://www.youtube.com/shorts/2S6rdqFyTdc",
+          "thumbnail": "https://i.ytimg.com/vi/2S6rdqFyTdc/frame0.jpg",
+          "views_original": "308K views",
+          "views": 308000,
+          "video_id": "2S6rdqFyTdc"
+        },
+        {
+          "title": "How to Setup Windows 11 Without a Microsoft Account",
+          "link": "https://www.youtube.com/shorts/SjDcdcKrq6E",
+          "thumbnail": "https://i.ytimg.com/vi/SjDcdcKrq6E/frame0.jpg",
+          "views_original": "1.2M views",
+          "views": 1200000,
+          "video_id": "SjDcdcKrq6E"
+        },
+        {
+          "title": "How Microsoft took over the Tech World",
+          "link": "https://www.youtube.com/shorts/c7J8aRwWqZo",
+          "thumbnail": "https://i.ytimg.com/vi/c7J8aRwWqZo/frame0.jpg",
+          "views_original": "13K views",
+          "views": 13000,
+          "video_id": "c7J8aRwWqZo"
+        },
+        {
+          "title": "Microsoft announcing the launch of Excel (1998)",
+          "link": "https://www.youtube.com/shorts/AHTAmT2O0Vw",
+          "thumbnail": "https://i.ytimg.com/vi/AHTAmT2O0Vw/frame0.jpg",
+          "views_original": "2M views",
+          "views": 2000000,
+          "video_id": "AHTAmT2O0Vw"
+        },
+        {
+          "title": "It all just clicks into place @Surface",
+          "link": "https://www.youtube.com/shorts/cldlXRawf0I",
+          "thumbnail": "https://i.ytimg.com/vi/cldlXRawf0I/frame0.jpg",
+          "views_original": "5.1K views",
+          "views": 5100,
+          "video_id": "cldlXRawf0I"
+        }
+      ]
+    },
+    {
+      "position_on_page": 12,
+      "shorts": [
+        {
+          "title": "Microsoft’s ‘Blue Screen of Death’ signaled IT trouble across the world",
+          "link": "https://www.youtube.com/shorts/6PzzKHYI8JQ",
+          "thumbnail": "https://i.ytimg.com/vi/6PzzKHYI8JQ/frame0.jpg",
+          "views_original": "16K views",
+          "views": 16000,
+          "video_id": "6PzzKHYI8JQ"
+        },
+        {
+          "title": "5 Things about Microsoft you didn't know",
+          "link": "https://www.youtube.com/shorts/djYrmRzQMeE",
+          "thumbnail": "https://i.ytimg.com/vi/djYrmRzQMeE/frame0.jpg",
+          "views_original": "1.1M views",
+          "views": 1100000,
+          "video_id": "djYrmRzQMeE"
+        },
+        {
+          "title": "How CrowdStrike broke Windows computers everywhere. #mkbhd #waveformpodcast #microsoft",
+          "link": "https://www.youtube.com/shorts/F2yv30kqSg8",
+          "thumbnail": "https://i.ytimg.com/vi/F2yv30kqSg8/frame0.jpg",
+          "views_original": "48K views",
+          "views": 48000,
+          "video_id": "F2yv30kqSg8"
+        },
+        {
+          "title": "Microsoft Salary Revealed! 🚀",
+          "link": "https://www.youtube.com/shorts/G2r4Yxx4xNc",
+          "thumbnail": "https://i.ytimg.com/vi/G2r4Yxx4xNc/frame0.jpg",
+          "views_original": "244K views",
+          "views": 244000,
+          "video_id": "G2r4Yxx4xNc"
+        },
+        {
+          "title": "How Microsoft feeds gamepass",
+          "link": "https://www.youtube.com/shorts/yoFHOUmaqQQ",
+          "thumbnail": "https://i.ytimg.com/vi/yoFHOUmaqQQ/frame0.jpg",
+          "views_original": "48M views",
+          "views": 48000000,
+          "video_id": "yoFHOUmaqQQ"
+        },
+        {
+          "title": "Microsoft Outage Today | Global Microsoft Outage Affects Multiple Systems",
+          "link": "https://www.youtube.com/shorts/EMezJH-IK88",
+          "thumbnail": "https://i.ytimg.com/vi/EMezJH-IK88/frame0.jpg",
+          "views_original": "6K views",
+          "views": 6000,
+          "video_id": "EMezJH-IK88"
+        },
+        {
+          "title": "Is Microsoft Recall MANDATORY Spyware now? #shorts #microsoft #ai #privacy #linux",
+          "link": "https://www.youtube.com/shorts/sfZs5sn15p0",
+          "thumbnail": "https://i.ytimg.com/vi/sfZs5sn15p0/frame0.jpg",
+          "views_original": "180K views",
+          "views": 180000,
+          "video_id": "sfZs5sn15p0"
+        },
+        {
+          "title": "Microsoft's New Copilot + PCs Look Amazing",
+          "link": "https://www.youtube.com/shorts/LsCoz0JHpVY",
+          "thumbnail": "https://i.ytimg.com/vi/LsCoz0JHpVY/frame0.jpg",
+          "views_original": "106K views",
+          "views": 106000,
+          "video_id": "LsCoz0JHpVY"
+        },
+        {
+          "title": "The Value of Independent Negotiators with Microsoft",
+          "link": "https://www.youtube.com/shorts/DgA6eYCsxWI",
+          "thumbnail": "https://i.ytimg.com/vi/DgA6eYCsxWI/frame0.jpg",
+          "views_original": "554 views",
+          "views": 554,
+          "video_id": "DgA6eYCsxWI"
+        },
+        {
+          "title": "Microsoft Making Local Accounts Harder",
+          "link": "https://www.youtube.com/shorts/qwdVSXlS5Fk",
+          "thumbnail": "https://i.ytimg.com/vi/qwdVSXlS5Fk/frame0.jpg",
+          "views_original": "924K views",
+          "views": 924000,
+          "video_id": "qwdVSXlS5Fk"
+        }
+      ]
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 5,
+      "title": "Full Keynote: Satya Nadella at Microsoft Ignite 2024",
+      "link": "https://www.youtube.com/watch?v=3YiB2OvK6sY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=3YiB2OvK6sY",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1 month ago",
+      "views": 995860,
+      "length": "1:16:20",
+      "description": "Watch Satya Nadella's full keynote presentation from Microsoft Ignite 2024. For more on Microsoft Ignite 2024: ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3YiB2OvK6sY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3_JHFUrEotyU4JmaHr-3KdqgScg",
+        "rich": "https://i.ytimg.com/an_webp/3YiB2OvK6sY/mqdefault_6s.webp?du=3000&sqp=CLTSkrsG&rs=AOn4CLCKF9Vj48bsZNZhhlRpVyVK6l-LVw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Introducing Windows 365 Link: Satya Nadella at Microsoft Ignite 2024",
+      "link": "https://www.youtube.com/watch?v=BQpNTDgzIn8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=BQpNTDgzIn8",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1 month ago",
+      "views": 101171,
+      "length": "1:02",
+      "description": "At Microsoft Ignite 2024, Satya Nadella announced Windows 365 Link. For audio description: https://youtu.be/lWi7i76hLA8 ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BQpNTDgzIn8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1L2L_QNI5i_0-6Uqd6myZvQ4oTQ",
+        "rich": "https://i.ytimg.com/an_webp/BQpNTDgzIn8/mqdefault_6s.webp?du=3000&sqp=CJXQkrsG&rs=AOn4CLCwggG0eGeRGDO7b4WZ1bInT7frjA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Microsoft 365 Copilot: Wave 2 | Microsoft September 2024 Event",
+      "link": "https://www.youtube.com/watch?v=Gz0jPfCuvsM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=Gz0jPfCuvsM",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 months ago",
+      "views": 221311,
+      "length": "27:39",
+      "description": "A special event with Satya Nadella and Jared Spataro focused on the next phase of Microsoft 365 Copilot innovation. Learn more: ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gz0jPfCuvsM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMf4FtkI8ksWCeQ2mizaPCfJQryA",
+        "rich": "https://i.ytimg.com/an_webp/Gz0jPfCuvsM/mqdefault_6s.webp?du=3000&sqp=CL3HkrsG&rs=AOn4CLBeSI-uVIvBc9C9YU_G4pOy9F2pgg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Protecting the Amazon from deforestation with Microsoft AI",
+      "link": "https://www.youtube.com/watch?v=91_ZULhScRc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=91_ZULhScRc",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 months ago",
+      "views": 13543036,
+      "length": "2:52",
+      "description": "Project Guacamaya is fighting deforestation by monitoring the Amazon rainforest with Microsoft AI. Researchers are studying daily ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/91_ZULhScRc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkPjx54DW0W4k5FLYITJZdrqCDwg",
+        "rich": "https://i.ytimg.com/an_webp/91_ZULhScRc/mqdefault_6s.webp?du=3000&sqp=CPvOkrsG&rs=AOn4CLCyCClGu4l5ULuVmbZAYcm7wGeYDg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Microsoft Should Be Really Worried Now...",
+      "link": "https://www.youtube.com/watch?v=v--kff4ar7Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=v--kff4ar7Q",
+      "channel": {
+        "name": "SomeOrdinaryGamers",
+        "link": "https://www.youtube.com/@SomeOrdinaryGamers",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9CJFVl3bEWvGnNnN4G9ErBO2lTpKePWCjx_FQtLWaDww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 weeks ago",
+      "views": 559456,
+      "length": "31:04",
+      "description": "Hello guys and gals, it's me Mutahar again! Linux is on it's way to reaching even closer to being a real alternative for gamers and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/v--kff4ar7Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0q8qCOsynbXUhky34jm_5ZHzm_A",
+        "rich": "https://i.ytimg.com/an_webp/v--kff4ar7Q/mqdefault_6s.webp?du=3000&sqp=CKzUkrsG&rs=AOn4CLCItEYJiJ19u0nnv-RZ13wcO4WllQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Microsoft Word for Beginners - The Complete Course",
+      "link": "https://www.youtube.com/watch?v=2MCmnr2L50o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=2MCmnr2L50o",
+      "channel": {
+        "name": "Technology for Teachers and Students",
+        "link": "https://www.youtube.com/@techteachersandstudents",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lAvC6NUZ-qUNEkXYDkUlH8ne9BfMbs7dx3cPAWRQ0jbIk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 years ago",
+      "views": 2065389,
+      "length": "43:16",
+      "description": "This is the beginning Microsoft Word course that you've been waiting for! Learn everything you need to effectively use Word by ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2MCmnr2L50o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApbYF3R1sqh2cCZYRIrddH9LCA9Q",
+        "rich": "https://i.ytimg.com/an_webp/2MCmnr2L50o/mqdefault_6s.webp?du=3000&sqp=CIbQkrsG&rs=AOn4CLAipgRqQ3DkFEL2oZyw8Jvp7-rMUA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Microsoft Copilot Tutorial",
+      "link": "https://www.youtube.com/watch?v=d-CuF6dlqLg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=d-CuF6dlqLg",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lr4ES_dIDpNgSSrKh-AibkIGYafS2IaX2D1aA_8j_-QeIG=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4 months ago",
+      "views": 469774,
+      "length": "14:10",
+      "description": "In this step-by-step tutorial, learn how to use Microsoft Copilot. We'll explore how to use Copilot in Windows, in Microsoft 365 apps ...",
+      "extensions": ["4K", "CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/d-CuF6dlqLg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN9mNLsdkQx8FCROSW5fjlYVF3KQ",
+        "rich": "https://i.ytimg.com/an_webp/d-CuF6dlqLg/mqdefault_6s.webp?du=3000&sqp=CLjKkrsG&rs=AOn4CLA8FY9RZYMuQE-0XneAYAsBy81jcw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Meet the new Microsoft Surface Pro",
+      "link": "https://www.youtube.com/watch?v=jg1ZxdBFEYg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=jg1ZxdBFEYg",
+      "channel": {
+        "name": "Microsoft Surface",
+        "link": "https://www.youtube.com/@surface",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k7rZazw88fCR4X3ohBQR5rO5Qgs1lsdwwVgrOaw_kctts=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6 months ago",
+      "views": 690948,
+      "length": "0:53",
+      "description": "The new Surface Pro, 11th Edition, unlocks a new way to think about a laptop. Get the most out of your day with accelerated ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jg1ZxdBFEYg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLEO1aSNbDvQxijQUj9cgQpH2Igw",
+        "rich": "https://i.ytimg.com/an_webp/jg1ZxdBFEYg/mqdefault_6s.webp?du=3000&sqp=CIjRkrsG&rs=AOn4CLASzPqp26dBmYWsDA0t5Ck7HRFTcQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Microsoft Sucks at Everything",
+      "link": "https://www.youtube.com/watch?v=LZzubS1ILTs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=LZzubS1ILTs",
+      "channel": {
+        "name": "NakeyJakey",
+        "link": "https://www.youtube.com/@NakeyJakey",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/76PVNK8rPwgXTGtOVMVzdAUXaziEa1Igzx86wEAw9rtK0x1zzeIRlgnRKZH7ezfXWfUVGcuFeA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1 month ago",
+      "views": 2222429,
+      "length": "27:06",
+      "description": "david cagers rise up BALL CREATIVE X JAKEYS AT LAW ▻ https://ballcreative.store SHIRT DRAWING BY COUSIN JON ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LZzubS1ILTs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwoqz-CJ2ewbuhuDXDqLL5nAdYVA",
+        "rich": "https://i.ytimg.com/an_webp/LZzubS1ILTs/mqdefault_6s.webp?du=3000&sqp=CM3akrsG&rs=AOn4CLBCYIkNzYrUDUKZgDrp_KM6gg3cXQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Beginner's Guide to Microsoft Word",
+      "link": "https://www.youtube.com/watch?v=S-nHYzK-BVg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=S-nHYzK-BVg",
+      "channel": {
+        "name": "Technology for Teachers and Students",
+        "link": "https://www.youtube.com/@techteachersandstudents",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lAvC6NUZ-qUNEkXYDkUlH8ne9BfMbs7dx3cPAWRQ0jbIk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7 years ago",
+      "views": 7442713,
+      "length": "18:28",
+      "description": "If you like this video, here's my entire playlist of Word tutorials: http://bit.ly/2FY6NVT Learn the basics of effectively using Microsoft ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S-nHYzK-BVg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUlerW1vbrQDyJa39_FAPXh31BPA",
+        "rich": "https://i.ytimg.com/an_webp/S-nHYzK-BVg/mqdefault_6s.webp?du=3000&sqp=CKi4krsG&rs=AOn4CLAlh078S5PKmTlHoQvVupVlwntRyA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Microsoft Ignite: Day 1 Keynote",
+      "link": "https://www.youtube.com/watch?v=wb_uWHFJBnA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=wb_uWHFJBnA",
+      "channel": {
+        "name": "Microsoft Events",
+        "link": "https://www.youtube.com/@events_msft",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lphF72mmuisiqF45rXI3Cdd0vYjrUKW4XzFAgM5Zf2L5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 1 month ago",
+      "views": 35907,
+      "length": "3:16:46",
+      "description": "Join Microsoft leaders as they share how we are creating new opportunity across our platforms in this era of AI, streamed live from ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wb_uWHFJBnA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4O7cFwJUPPNAV0IlglY2PpIJqWQ",
+        "rich": "https://i.ytimg.com/an_webp/wb_uWHFJBnA/mqdefault_6s.webp?du=3000&sqp=COC0krsG&rs=AOn4CLCqNVR86T6Hssz-vCqvyDbczoWtlw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "How to use Microsoft Word for Beginners and Beyond!",
+      "link": "https://www.youtube.com/watch?v=ibf42LGUamM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=ibf42LGUamM",
+      "channel": {
+        "name": "Teacher's Tech",
+        "link": "https://www.youtube.com/@TeachersTech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/_sVjtoEpgOSLi-7g9dHCGKhrJSj6JW7556qFs38olqDbSnDr0yaclqcj2feM7juaVFjDjN01w0g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1 year ago",
+      "views": 180450,
+      "length": "56:55",
+      "description": "Welcome to my Microsoft Word beginner's class! Join me in this step-by-step tutorial on how to use Microsoft Word! This video is ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ibf42LGUamM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh3vH6P4tSGFXCfxGHXi2BZaV7Kg",
+        "rich": "https://i.ytimg.com/an_webp/ibf42LGUamM/mqdefault_6s.webp?du=3000&sqp=CL_ekrsG&rs=AOn4CLBbNkQewDzKRJezB7z4ZW3fJXfNBQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "A Boss Reveals Everything Your Company Can Monitor in Microsoft",
+      "link": "https://www.youtube.com/watch?v=S5_61QqxGck",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=S5_61QqxGck",
+      "channel": {
+        "name": "Pragmatic Works",
+        "link": "https://www.youtube.com/@PragmaticWorks",
+        "thumbnail": "https://yt3.ggpht.com/Dx0d9udV7O0Q0xITP9ta57VJEpwdc4kwzGJ-ST_vG5310GpKAloSxv_ZuHNk-hA30hebLzFFyA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4 months ago",
+      "views": 369818,
+      "length": "11:55",
+      "description": "Do you want to know what your boss can see about your online activity in Microsoft 365? In this video, we dive deep into the ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S5_61QqxGck/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNHowpN7dWwbfR6Eqe9UFf92yinw",
+        "rich": "https://i.ytimg.com/an_webp/S5_61QqxGck/mqdefault_6s.webp?du=3000&sqp=CMSxkrsG&rs=AOn4CLD5xh0puBy1vXTnrO4sRqhngdp3VA"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "Microsoft Copilot+ PCs | Marvel Studios’ Captain America: Brave New World – “Wingman\"",
+      "link": "https://www.youtube.com/watch?v=uPm0SQD4blU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=uPm0SQD4blU",
+      "channel": {
+        "name": "Microsoft",
+        "link": "https://www.youtube.com/@Microsoft",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DP2DnSf8hIhdjThIsFyCqktfSgvrLeXfWA0xbPOo8I3n-P2_7c4otmLi6SwbUp1tXcWodn10=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "13 days ago",
+      "views": 50525,
+      "length": "1:01",
+      "description": "Captain America counts on his copilot for mission support. Falcon relies on Copilot+ PC to level up his wing designs. To celebrate ...",
+      "extensions": ["CC"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uPm0SQD4blU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQf8ICYabLryPEuPgh31roWV1-iw",
+        "rich": "https://i.ytimg.com/an_webp/uPm0SQD4blU/mqdefault_6s.webp?du=3000&sqp=CPDYkrsG&rs=AOn4CLCMBgn30MtyoS6YhrBN_W2owcEu-Q"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Microsoft, WTF is this?",
+      "link": "https://www.youtube.com/watch?v=AJFtwODOjhc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=AJFtwODOjhc",
+      "channel": {
+        "name": "TechLinked",
+        "link": "https://www.youtube.com/@techlinked",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Jm63sJa4XhXAlj8mliaMCDVKuPD1u5KOlKGvFYSwjjn1KYlc5RttkjccS3d7W2Fporh4sKwCbuU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4 weeks ago",
+      "views": 974299,
+      "length": "8:08",
+      "description": "Click the link above and check out the amazing deals available at Jawa! They are THE marketplace for buying and selling PC ...",
+      "extensions": ["4K"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/AJFtwODOjhc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEACuJMEKqiM0Qng1aoIzOv93kDg",
+        "rich": "https://i.ytimg.com/an_webp/AJFtwODOjhc/mqdefault_6s.webp?du=3000&sqp=CLLakrsG&rs=AOn4CLAIddSOx7bDQgrnOZAufilLQMt5xw"
+      }
+    },
+    {
+      "position_on_page": 24,
+      "title": "Excel for Beginners - The Complete Course",
+      "link": "https://www.youtube.com/watch?v=wbJcJCkBcMg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=wbJcJCkBcMg",
+      "channel": {
+        "name": "Technology for Teachers and Students",
+        "link": "https://www.youtube.com/@techteachersandstudents",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lAvC6NUZ-qUNEkXYDkUlH8ne9BfMbs7dx3cPAWRQ0jbIk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2 years ago",
+      "views": 7614999,
+      "length": "54:55",
+      "description": "This is the beginning Excel course that you've been waiting for! Learn everything you need to effectively use Excel by watching ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wbJcJCkBcMg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt4xYk_iUi092DSm9ZIem1zId8ZQ",
+        "rich": "https://i.ytimg.com/an_webp/wbJcJCkBcMg/mqdefault_6s.webp?du=3000&sqp=CNDFkrsG&rs=AOn4CLBywg7QUVaK3MOImTSYDmMwlTNJmA"
+      }
+    },
+    {
+      "position_on_page": 25,
+      "title": "Introducing Windows 11",
+      "link": "https://www.youtube.com/watch?v=Uh9643c2P6k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=Uh9643c2P6k",
+      "channel": {
+        "name": "Windows",
+        "link": "https://www.youtube.com/@MicrosoftWindows",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/iKXHVtR-fLwbz17z4ikGr5nUG37KhCHMqBsqMm8y5K3fvqFqhkMS_7lN61frBDAU3k2qnqWu=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3 years ago",
+      "views": 12636165,
+      "length": "2:43",
+      "description": "Windows 11 brings you closer to what you love. Family, friends, obsessions, music, creations — Windows 11 is the one place for it ...",
+      "extensions": ["4K"],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Uh9643c2P6k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-6QLvHL4PSOgZd4d85J5yhc7x2g",
+        "rich": "https://i.ytimg.com/an_webp/Uh9643c2P6k/mqdefault_6s.webp?du=3000&sqp=CJi3krsG&rs=AOn4CLDdNB_X20hpNnL6iHhNGyieOsdkAg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Microsoft",
+    "next": "https://www.youtube.com/results?search_query=Microsoft&sp=SBSCARhVQ0Z0RUV2ODBmUVZLa0Q0aDFQRi1YcXeCAQszWWlCMk92SzZzWYIBGFVDYzNwTklSeklaOHluSTM4R082SDAxUYIBC0JRcE5URGd6SW44ggELR3owalBmQ3V2c02CAQs5MV9aVUxoU2NSY4IBC3YtLWtmZjRhcjdRggELMk1DbW5yMkw1MG-CAQtkLUN1RjZkbHFMZ4IBC2pnMVp4ZEJGRVlnggELTFp6dWJTMUlMVHOCAQtTLW5IWXpLLUJWZ4IBC3diX3VXSEZKQm5BggELaWJmNDJMR1VhbU2CAQtTNV82MVFxeEdja4IBC3VQbTBTUUQ0YmxVggELQUpGdHdPRE9qaGOCARhVQ1NnelJKTXFJaUNOdG9NNlE3UTlMcXeCAQt3YkpjSkNrQmNNZ4IBC1VoOTY0M2MyUDZrsgEGCgQIGBAC6gEECAIQHg%253D%253D",
+    "next_page_token": "SBSCARhVQ0Z0RUV2ODBmUVZLa0Q0aDFQRi1YcXeCAQszWWlCMk92SzZzWYIBGFVDYzNwTklSeklaOHluSTM4R082SDAxUYIBC0JRcE5URGd6SW44ggELR3owalBmQ3V2c02CAQs5MV9aVUxoU2NSY4IBC3YtLWtmZjRhcjdRggELMk1DbW5yMkw1MG-CAQtkLUN1RjZkbHFMZ4IBC2pnMVp4ZEJGRVlnggELTFp6dWJTMUlMVHOCAQtTLW5IWXpLLUJWZ4IBC3diX3VXSEZKQm5BggELaWJmNDJMR1VhbU2CAQtTNV82MVFxeEdja4IBC3VQbTBTUUQ0YmxVggELQUpGdHdPRE9qaGOCARhVQ1NnelJKTXFJaUNOdG9NNlE3UTlMcXeCAQt3YkpjSkNrQmNNZ4IBC1VoOTY0M2MyUDZrsgEGCgQIGBAC6gEECAIQHg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&search_query=Microsoft",
+    "next": "https://serpapi.com/search.json?engine=youtube&search_query=Microsoft&sp=SBSCARhVQ0Z0RUV2ODBmUVZLa0Q0aDFQRi1YcXeCAQszWWlCMk92SzZzWYIBGFVDYzNwTklSeklaOHluSTM4R082SDAxUYIBC0JRcE5URGd6SW44ggELR3owalBmQ3V2c02CAQs5MV9aVUxoU2NSY4IBC3YtLWtmZjRhcjdRggELMk1DbW5yMkw1MG-CAQtkLUN1RjZkbHFMZ4IBC2pnMVp4ZEJGRVlnggELTFp6dWJTMUlMVHOCAQtTLW5IWXpLLUJWZ4IBC3diX3VXSEZKQm5BggELaWJmNDJMR1VhbU2CAQtTNV82MVFxeEdja4IBC3VQbTBTUUQ0YmxVggELQUpGdHdPRE9qaGOCARhVQ1NnelJKTXFJaUNOdG9NNlE3UTlMcXeCAQt3YkpjSkNrQmNNZ4IBC1VoOTY0M2MyUDZrsgEGCgQIGBAC6gEECAIQHg%253D%253D",
+    "next_page_token": "SBSCARhVQ0Z0RUV2ODBmUVZLa0Q0aDFQRi1YcXeCAQszWWlCMk92SzZzWYIBGFVDYzNwTklSeklaOHluSTM4R082SDAxUYIBC0JRcE5URGd6SW44ggELR3owalBmQ3V2c02CAQs5MV9aVUxoU2NSY4IBC3YtLWtmZjRhcjdRggELMk1DbW5yMkw1MG-CAQtkLUN1RjZkbHFMZ4IBC2pnMVp4ZEJGRVlnggELTFp6dWJTMUlMVHOCAQtTLW5IWXpLLUJWZ4IBC3diX3VXSEZKQm5BggELaWJmNDJMR1VhbU2CAQtTNV82MVFxeEdja4IBC3VQbTBTUUQ0YmxVggELQUpGdHdPRE9qaGOCARhVQ1NnelJKTXFJaUNOdG9NNlE3UTlMcXeCAQt3YkpjSkNrQmNNZ4IBC1VoOTY0M2MyUDZrsgEGCgQIGBAC6gEECAIQHg%3D%3D"
+  }
+}

@@ -1,0 +1,1051 @@
+{
+  "search_metadata": {
+    "id": "6764b45ae42b28e75ce2252a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/df3ddad8913f53ae/6764b45ae42b28e75ce2252a.json",
+    "created_at": "2024-12-20 00:03:38 UTC",
+    "processed_at": "2024-12-20 00:03:39 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=Microsoft&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/df3ddad8913f53ae/6764b45ae42b28e75ce2252a.html",
+    "total_time_taken": 6.09
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "Microsoft",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "Microsoft"
+  },
+  "filters": [
+    {
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "On sale",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Microsoft+sale&shoprs=CAESBEoCGAEYBioJbWljcm9zb2Z0MhMIBhIHT24gc2FsZRgCIgRKAhgBWKCzIGAC"
+        },
+        {
+          "text": "Used",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=used+Microsoft&shoprs=CAEYCioJbWljcm9zb2Z0MggIChIEVXNlZFigsyBgAg"
+        },
+        {
+          "text": "Small business",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=microsoft&shoprs=CAESAmoAGBYqCW1pY3Jvc29mdDIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Sort by",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Price: low to high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=microsoft&shoprs=CAEYFyoJbWljcm9zb2Z0MhwIFxISUHJpY2U6IGxvdyB0byBoaWdoKgQQARgBYAKIAQE"
+        },
+        {
+          "text": "Price: high to low",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=microsoft&shoprs=CAEYFyoJbWljcm9zb2Z0MhwIFxISUHJpY2U6IGhpZ2ggdG8gbG93KgQQARgBYAKIAQI"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $300",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Microsoft+under+%24300&shoprs=CAESDRILEQAAAACj4bFBGAEYBSoJbWljcm9zb2Z0MiMIBRIKVW5kZXIgJDMwMBgCIg0SCxEAAAAAo-GxQRgBKgIYAVigsyBgAg"
+        },
+        {
+          "text": "$300 - $800",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Microsoft+between+%24300+and+%24800&shoprs=CAESFhIUCQAAAACj4bFBEQAAAACE18dBGAEYBSoJbWljcm9zb2Z0Mi0IBRILJDMwMCAtICQ4MDAYAiIWEhQJAAAAAKPhsUERAAAAAITXx0EYASoCGAFYoLMgYAI"
+        },
+        {
+          "text": "Over $800",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Microsoft+over+%24800&shoprs=CAESDRILCQAAAACE18dBGAEYBSoJbWljcm9zb2Z0MiIIBRIJT3ZlciAkODAwGAIiDRILCQAAAACE18dBGAEqAhgBWKCzIGAC"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Adorama",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=adorama+microsoft&shoprs=CAEYAioJbWljcm9zb2Z0MgsIAhIHQWRvcmFtYVigsyBgAg"
+        },
+        {
+          "text": "B&H Photo Video Audio",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=b%26h+photo+video+audio+microsoft&shoprs=CAEYAioJbWljcm9zb2Z0MhkIAhIVQiZIIFBob3RvIFZpZGVvIEF1ZGlvWKCzIGAC"
+        },
+        {
+          "text": "G2A.com",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=g2a.com+microsoft&shoprs=CAEYAioJbWljcm9zb2Z0MgsIAhIHRzJBLmNvbVigsyBgAg"
+        },
+        {
+          "text": "Target",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=target+microsoft&shoprs=CAEYAioJbWljcm9zb2Z0MgoIAhIGVGFyZ2V0WKCzIGAC"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Free shipping",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Microsoft+free+shipping&shoprs=CAESBFICEAEYGSoJbWljcm9zb2Z0MhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Microsoft Surface Go 4",
+      "product_link": "https://www.google.com/shopping/product/9410461700097896223?gl=us",
+      "product_id": "9410461700097896223",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9410461700097896223",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d81954eeeeb28f2c2868a4cd9e728333f3.png",
+      "price": "$579.99",
+      "extracted_price": 579.99,
+      "rating": 4.8,
+      "reviews": 75,
+      "snippet": "Lighter than most tablets",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d86cc2073d5970de283b9122fe540a5014.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcScNuVe1Im-xcyNcPwPXJdAPWQRSi5AbuN3sIz7rz7bdxsCO8DUOtZJ7oebd6QvMC2h7aY7ccQNcZHdd3K1SijZdFahCSEzQPvN_vcYOoJgRZYGbvjfLkuo4A",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkSPCRX9jtABkpi5SsEhIBMFbFQTjq3QLQMuKEv-mDdYUMb30d50ss_59dnBwwBbDMF5hKcLvGZ0p40D6qsP2K0_Q7cWUZTndLqlk4yqON1ryohICpPMF5mA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTGjXUnMrA6fladvF9oWE8arfq0ilRjgH8FB-fKS9v3IE2Yp9lT0gXhZgHP6JLyRcgHgierbPSBXhHAnysSuTJOiX247TGj49P52j7a10M_etjuUkOtOrOFw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQrXyK-qyzDK2GDaw3_5zGpQH4nJ72zEnWLYLXjerKQlD54D7ok5O2g_kMo-5KiYtNELuFsR26OWDS9C0uirw7Bptu-dwqxWYi8FpKRHfQ",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXH9jZSNr4rSQU271iueInNU19KrHFvWzQMxW8m8gIT3ER6kUuYFOOhHILVoog8g_RYDKrnU4pPABvIDDW4T49VGgmdXsj7xHsc3HkACnD"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 2,
+      "title": "Microsoft Office 2024 Home & Business",
+      "product_link": "https://www.google.com/shopping/product/2316404719016673223?gl=us",
+      "product_id": "2316404719016673223",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2316404719016673223",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d86892d33f9a2c8ee7bdf542f348aedf80.png",
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "rating": 4.5,
+      "reviews": 545,
+      "snippet": "Performs well (38 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d44256afebc6ff40c6433b8020439799.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFUGlHs_waSo8pxsUt-9D1Wq-yNGBlz8-hxgBRq9rjfNqzd467ShGrJj28D6f_aKT8nPp4541UzNoa7yi_VL7qusbdB4o2Dw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZglva17NLwfIP85uwMWjbFxp1-dtPS2uSiTdN3pcnTAyfKlvVlsLOTnugtzGuKsjbJ6wJZUw2ve9uXTJ9jLy4PrVXLy4g0bzIUoWkgHA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRveYhQHHbwBrhxMbp0dr2uk2_wbk60N9wQeheJAcD8InRCa6zVoW4rlAc1My-H_PdmBtqD-VGuatjC2AJVsKqh17Kprxt8PQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRQisaut7tCAAup8o3kN6UGQm12v_bwUDOEY-YMyn8YFpMUCGOxTjhE3Yoe3SXAupmn7u7-4cUTtPlMBX6hGNCsYGcBhtmI3i-u89-K26u--WOI_-ZNVMcvDA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTY-nahtFXGkwe0fUnVsr6a6vA7ci0LLFKsS0JJqlUoNsTEVYmeQsDpP9Gn7jR5eq7UafJk5S4iehb0IHp81yZRSEq_sNiLgQ53N35Fe-mUB6AJPgI0IXl_"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 3,
+      "title": "Microsoft 12.4\" Surface Laptop Go 3",
+      "product_link": "https://www.google.com/shopping/product/817233905142581841?gl=us",
+      "product_id": "817233905142581841",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=817233905142581841",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d84ff02a0b6de75bcf580a84f7806ffa41.png",
+      "price": "$799.99",
+      "extracted_price": 799.99,
+      "rating": 4.6,
+      "reviews": 894,
+      "snippet": "Lightweight (108 user reviews)",
+      "extensions": ["Free 30-day returns", "Also nearby"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8a96ac12523227a677bd205f9b0c68d6c.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSD-AyZPc4zsxR8Jl4LiUM4B7YxMYC5lYc_XRB4165xVNMYJoIf6cKV7_EGYsXc3n0mnenpW_839-Qsj9kzyK5VvKx49KVAoJO4GD4nQ7LgP6A-Key0DAPd",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUVHteVPNjOaSjWs1H8fJZvkVNAZCoiOD0ZLFo6hgQKRWM93KtKuKsEu9hfoNJekftNFpGOyJLOdRg4cH0mOro1IvIIAkeeFFEKiGBncUE6FDFdIZYZzNRMw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbJ9GjeqJoHYbWaoQC7qVV6fPP-524sMEetbRLaM9imz24h9mb7dxfsRctcPiWAIinDE7fVxuzTocipwlBkVHjm97c7KBpe7C_XR7awVQecUWP44xauRD5NQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT9y0XiUdbO4nQ6inCu5fAY_bzcz8JmSKBwNkL_OW4nI83kaVtQsLinPsc1NnUbxc1vm3HTCzMDcOswWXtHE67Q43tKHyomXuMPxfRSLTOzGKXP_FXqvE9LCA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuVcCS-SMYMjcZ6sVEfwZRPuG4H8S73HH7cnTOMnCdMXfClwNfq_djBPFG_b1xnBG80yZO592WregITnJ9jmmVqrgopB1ElqaA4n4nrbs"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 4,
+      "title": "Microsoft Surface Pro Copilot+ PC 13\" Snapdragon X Plus 16GB",
+      "product_link": "https://www.google.com/shopping/product/11534984833878546791?gl=us",
+      "product_id": "11534984833878546791",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11534984833878546791",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8e49f687ed5fc724a9c7af1324cd8381e.png",
+      "price": "$899.99",
+      "extracted_price": 899.99,
+      "old_price": "$1,200",
+      "extracted_old_price": 1200,
+      "rating": 4.5,
+      "reviews": 649,
+      "snippet": "Quality display (71 user reviews)",
+      "extensions": ["Free 30-day returns", "25% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d88ba9f50e63e439ddf089e049eaa9e196.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4VV1VpWFLEJsnqdS6fC5HFAi5MG9i1jqBZAk0uJxvrodJqGM_Lmvw86aMkijjr3wVQ5HqUOSGIAM4hQymTvQP18rcozwDwKYr-LQTGQnEBha0b0xl6fpgFlU",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS1_HXifE2mnL5X1cl0qqGpyn402Qs3PfMJu-Xf790jnbTZfL3cVF41moP5-RcpgStvqEMo30mIikvjTTmHZuvbiKLi-aB0PdH39Sg-R-k5A2NZBxmCxL6I",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQatwLtY6I7lJdOZ3tT4kHimyqRbY-El6GSzld6s3I5WqerOpHAfpleMVefCFJjlZ7UgyRMozk4A57PGgHdmhD3hoqq2CpuhXaNhMBZOB5eFcXjqJ0OdLdg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlC33IF8iqNAyKSAtLpHKdXPnbK54tO_zRRceOqagN6L2O8MR7oVpXUarQdysMYOd6N5ytMcDnjpRoSc0cI1U5emyrVjLQj6kV6EMOw5KIeo2s2A8Y0wGIcw",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTG1hqQWCvUenUul5q5Cvo7rUxnTw3ubiHYr0W7swPeE1gBjCYzVa1nCs9I1skTPxMpl5tmGdoU9LEPyCV5U1_SjczlNXhnJwrRlmGyc7cVvcMnWNE_3VydZg"
+      ],
+      "tag": "25% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 5,
+      "title": "Microsoft Surface Laptop 5",
+      "product_link": "https://www.google.com/shopping/product/2275651362444178769?gl=us",
+      "product_id": "2275651362444178769",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2275651362444178769",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d898c233569883cb37296586727e2ec602.png",
+      "price": "$551.85",
+      "extracted_price": 551.85,
+      "second_hand_condition": "refurbished",
+      "rating": 4.6,
+      "reviews": 565,
+      "snippet": "Performs well (42 user reviews)",
+      "extensions": ["Free 30-day returns", "35% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8a89e5d8b2c1844acd4cce7b0d5f7e18d.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCXYjOMYLyDA6le2-EBnxeYqE1KKu9rLFzw4NCzZl8N2tP6VKJim59-ID5JNn2o-g_cuTif43LInv_lGje8VpYbAcLkS0SlbaZnhkC6D5-y1_U0HZIKY6a",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhZIGRP6Y4dkqKQ5dOCeSZm1ZrAs8rHnsg4vsR1sp23l0Ypevo3yZ1cGmz-5B3WTylhnJeYgKsO4-yj_hniYpZpBIMt7yfbVCl9IvFF5gOUVDezSt5LL2Y8w",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTc7PBuR9KEMEDouYwzDnyLRWPe3kxckJ3fpjCyyXC_6wFxYqyo_AivEIsslbmjzJrkEQvMRdnsuTuelNRzpI0KKeTyR1HRjHsBis17oT4opG2FscQCoVJn",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXXqAp79_-iz7UbzinaWSt8mvvPe_WMX3ZPKOSemXNU94Ew3rb4-tWbS1AL3RCNNjDzwMUc0cq4I-PAWq4gwh2LNHcoePc6BU6LR5F7S9h94hB6H5jm-0Gyw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFrbI340FxmBtC47aw2xxd3uVma0awEm9AJtRvWZGDiE5dBspY2LC9NQv7m0NfMkemBj_GSeAlFpoTiDRNGVKRtEmvazmFQA"
+      ],
+      "tag": "35% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 6,
+      "title": "Microsoft Office 365 Personal 1 Year License",
+      "product_link": "https://www.google.com/shopping/product/17941650687869483899?gl=us",
+      "product_id": "17941650687869483899",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17941650687869483899",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8162f3d5fc7cf7c29d27f19e7d4a867d4.png",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "rating": 4.6,
+      "reviews": 34000,
+      "snippet": "Easy to use (2,370 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d81810f14863e818b77072f7da739722a3.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIn-qUEfHaNTgICAa1twd5u3Jo0CM6lO33_f6oguFmA5DoPvqmfw9UsHt9Tow4NJ9I3aBJZa50Gn65XOjVOzLMfuTfhWP4pCt2d2zxvX8",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSe_0cZMxGrD2cAiGcTehWUndymrNWMpTn_aeCgZ_ltS_hi_xgo9KP3Z6rv74qwx9AhvpS1Bbkkj6M9P9WQFgELyo0uaoZt3UTtSseQYEuklLQmnjj_EpdV",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkEoKWCCXMc3CRFAep_vPwQ2vjmcIY3mCb05QVLirsPLcvNDGKxeS5wa0KkLRwBgUfK3waGuaz3isk2cFCbsd2JMKioFlCxYZ654bExt05G5dGq6OQdZjH",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJgx3ucbLU2MFuUBcWzBdEn9ccrmFChQsHJNrvZph2lZKbjuRSWOKcjojJMGfFtrw07HrRgLqWcG9uzTfhrLRjuRAL3lIBIhbyZPBDrcI5YoAb7KhWxYJkGhA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQLICfcVz_MlXg6KK-wE252XL5hfLd6iT9ixwxH2eLCBm_VqLU7ovBuXuQ2YUozb_nfXMTijDXXg0XCuDBbxsr3e88-giXpKBvAyDDtjSI"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 7,
+      "title": "Microsoft 13.8\" Surface Laptop Copilot+ PC",
+      "product_link": "https://www.google.com/shopping/product/6082545979572736683?gl=us",
+      "product_id": "6082545979572736683",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6082545979572736683",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d87c3b4cdf9ffa6bc929d4c855c903f54c.png",
+      "price": "$899.99",
+      "extracted_price": 899.99,
+      "old_price": "$1,200",
+      "extracted_old_price": 1200,
+      "rating": 4.6,
+      "reviews": 638,
+      "snippet": "Long battery life (127 user reviews)",
+      "extensions": ["Free 30-day returns", "25% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8ef6860bdcb56bdd4b5131586cab3a6ef.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTpHzhno11Tgypz-4VNCSczj2rPy8qKvAR8agQA5jr3JMaw6SGfEmlIzUoObm8nHd7XivpoDFtbZ0P77VUYHTWjIGCLBgvik2bFcCxcv35zw8sroUwIwtCU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTUxNvay5qNWUFUB417TREhfZScmD0kB9QP3INfb2RNYGJBkbhSdGlAEOn3g-_QMpkKmEbAU-SMLgqfw-OmkFVyn5FY81ozv_dqFzNQi_coxU8US0DJbAoC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSykFbYxoBOgX9U44-gcbOLGPXOfdSLuP9DRrkgBI5iItdAHV7HpEEOeCHr4cohKeX6wX7jcGyBaMeXjh1fHXQX5y1_H-gFT5PhjXqbwnqLbTgDGVemg7WT",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTS5ZOs32z_jScGGq7Krdn30E41XnM1Jixj9XUsWpZSYBOJk__1d5w10H1jx7o_iY4WOMwhTNxTHvgVq3E5seZiD8grMp3NUW-nWXqPtS1prGwYpx2Q-Mn8Ig",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0iPBtR7vakmet49FHYFnlNI-JJ6kMod82I7Qo0YpI5BiLzNJDG72RsKRnV-VV4UL1NpLwCumfn6fS04M2kmenuINVKdCQrAe_LGOjvTo"
+      ],
+      "tag": "25% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 8,
+      "title": "Microsoft Surface Pro 11 Tablet",
+      "product_link": "https://www.google.com/shopping/product/3669489655008474290?gl=us",
+      "product_id": "3669489655008474290",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3669489655008474290",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8cda84e14aed6615de58e02a002a78047.png",
+      "price": "$1,099.99",
+      "extracted_price": 1099.99,
+      "rating": 4.5,
+      "reviews": 546,
+      "snippet": "Quality display (66 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d880744b7a774c3b8b8999288e562cba41.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQe16wjXix0RDi2GWZGwxx1hKJo1z3GcctbdKUNHXeBafv-ydLu6fZHnm3WWpxFc-pZqy-hjYDiT8W__YkqG_vyQvx9O_zctGJTF7qiZSE5l6h6r7gStTCsSA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTulxTa5lV1AUU1nX6IhJYPAJzqEAmu5c9T2134CvXvvHMBr4B8I0K5EyU-FTzgUSHOUA0B4uRGz4O-5GWo-TfAVd0erdHuaV3ZGgiDoTb9WlD5kmwBmyZsAyM",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRnD2sMZpAHiuunWWDC6SPrphK1XmcW5ISstwPgGbPT5rKEiwENkNNxRQiM2guNxK_RFgr5XgeRi3tD7oNIl_Ey5jX2iN0EDweqFe3MyPd54PkpRmFasP8d",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3VfzsnhtZ5mspfVtgEkHSWfrbs85QAXoonojsDWrkuXsOlNnTcNCsw4sLf_4dSw-NCQAVFYoF1WHrfTjRi4pM5w68crLm3sSBTMZ6gV7E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrjClvuPsOgMCx67UhOIBm6pxlTZ50jBE9RQIxhLwoP9mT9xnMMehhBgmR7V021OOKnJMSkPbuYDLmezL7X3oOpdu9Mh8EDT2LgqMvU40"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 9,
+      "title": "Microsoft Surface Pro 9 Tablet",
+      "product_link": "https://www.google.com/shopping/product/3765021600951135988?gl=us",
+      "product_id": "3765021600951135988",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3765021600951135988",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8ad55f293e79a3a3bbcb13d411d604938.png",
+      "price": "$1,214.85",
+      "extracted_price": 1214.85,
+      "second_hand_condition": "refurbished",
+      "rating": 4.4,
+      "reviews": 843,
+      "snippet": "Performs well (46 user reviews)",
+      "extensions": ["Free 30-day returns", "35% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d870b9b786f9e03f74812eb5f45d5bd6fb.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSuJEajrkGWCP_gS5TKI_3CfK6TyPK02kNuYg13EMX6jnTizYLFeB3JqOHCIo_tgl22bqHF6yEF7E1EeAlbl8QESfoITvejUNVsEoJPoZBucbqN2IMAOCu09g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAn6Kifo-B_503RqvT1EclMHV1Pt2KDhSwHhr1mLNW03jd9B7sCBXRa7WmJarJjaiY_BsUhY-umH-Bi-JsoUG0chRqtqRb4ZkhaiNLai5_7nen7Fy1IG7MHzUl",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQK-IwFai71HlNCCktaVS89F9hkDfcd0LAyLw-UyT1uhbYD2u57DV0jNoAUkHObQ5MZXlCe52lToTAIEPt1OxnyPfQ0M0ENJA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRkSHXxThYo7dZt6wcGiyZqDwZt6UFMaQH0TgWSSKKgQo-5lk1TZWoUGfSgv2Zkf_YrLvyF7lYciB5VtodQ9eizscj5g4"
+      ],
+      "tag": "35% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 10,
+      "title": "Microsoft 365 Business Standard",
+      "product_link": "https://www.google.com/shopping/product/1225381484564013340?gl=us",
+      "product_id": "1225381484564013340",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1225381484564013340",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d79db71429e01d26b3839828fa3093c6.png",
+      "price": "$12.50",
+      "extracted_price": 12.5,
+      "snippet": "Business · Software Suite",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d816fa2c708e564fc985478fcf5e7308ed.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAhtKYnzM1w_22MWxISn8qZi79jPnDYKzGflJ3_8BPi4_dL9Px27xeV4CaPflzqopUr2Oy8KgNFPL6UBdWyEAzIC2iXIFB-g"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 11,
+      "title": "Microsoft Demo Surface Laptop 6 15in Black",
+      "product_link": "https://www.google.com/shopping/product/15083222886579648902?gl=us",
+      "product_id": "15083222886579648902",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15083222886579648902",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8c7202c7d126620776e7d689224dad8d6.png",
+      "price": "$1,176.68",
+      "extracted_price": 1176.68,
+      "second_hand_condition": "refurbished",
+      "snippet": "1920 x 1080 · Intel CPU · Touchscreen",
+      "extensions": ["Free 30-day returns", "8% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d89d2cdcb754cb55d4e888feed7e8e2d13.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSF2Hpjdh5YAqNvFle_WU500w-3Er71GJi28wrjzlxyb3zO2whDr3y2oQb1URgltUwCH4VqAJP2FIFuIseHArHlbkdyzotBerXg2Am8HA8h39j7AK2eCn8v",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTcgw3aGMrhgPaYBkvCidirIlP-oa1JDmlu-9cPjPYrJCSVDTERvH6V4SKaqm-LMsH29tO0PbikSo8qvesrj1UrVH6OsBmu_1wAp5Nj_KBDl-uyiLE9GiYd_g"
+      ],
+      "tag": "8% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 12,
+      "title": "Microsoft Surface Pro 10 Core",
+      "product_link": "https://www.google.com/shopping/product/4503766618245164212?gl=us",
+      "product_id": "4503766618245164212",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4503766618245164212",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d3749e13f1903d44210eeec62e7bf499.png",
+      "price": "$1,799.99",
+      "extracted_price": 1799.99,
+      "rating": 4.3,
+      "reviews": 9,
+      "snippet": "Lighter than most tablets",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d80fd31fd8ca4e26b3718b101439c3e0ed.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQaind8OGOXtSpTDN-yiWOQn7ZA8lt8_GWlCY5WTa-6M3v3BToJAIcKCyF3TL2Zp5-feo4A6ndPxwfzGEaxbTGBbveji3_G5EGzoKWLW3x_M_WA-9lYA3krcCA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhhjTVdnAhWA0TaUHagrHW7iSP_nZmy4TII75BG6yaK7XkgjwM8bTasYjHbOfNjp7DMZ-X-rk4vvvEdvVWeJ4erTbsSMlD_8SYGiOGCfjwnoTNicJAPZ5fLfc",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRBUV3iZCbOfvEqNqS48jGHBpwrf8CmkRT6GF4Si-TndMSitsSa5oYDpYtT9buCfWh3_Q50ntWd0dkzCodeczwi0StW4fouQFCeBrlXK1c",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5ykDpTTb0_Ne4xLbjAG-ad5yJ8qnOSBUTxayULeD6Hgr_OMzAofLTM2Q_rcagKYv21zloPLREfY6bunEKUrxhdYo0u2MmcDlEGgbyDm1jHofCETi9ja_ZRQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5VU-dy2sxCSLUJ5QoWDcJKJIAoMHI8ByV6MnkRRnGcr9Jh23uumVoaYPe4_bPV5pItm8b1m8r2RsTq28CVs1zartX7zbL0nfZf0Vy_sBx"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 13,
+      "title": "Microsoft Arc Touch Mouse",
+      "product_link": "https://www.google.com/shopping/product/4645404168922986916?gl=us",
+      "product_id": "4645404168922986916",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4645404168922986916",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d80b2a5574d7d6de117a6f8eb7ddb66ac6.png",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "rating": 4.3,
+      "reviews": 939,
+      "snippet": "Easy to set up (18 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d07d63898dcd294db9c4a8d9ce71c079.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRz3ZD5VQk8AGxODjLBKeFRorT61TT_t74URfdlrbvb97rg3ykS3V2f4pa2K-XKiWNs8BujbzFn4P13xCW9RIVNydnjLJ7LI3uSjNlhpyMN",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5nZ6HtgrbBtPLjwBnMOA4ihCM-ZcXb_15cmm9nlD0YmtU4OL02IgjsaotxEPmV2Jbeuxt5u8WG0QyyltMJZ5n2XAVprTBIxii3M2-OM7SjsPvmiOXrFFamnY",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRxTixLudIMk8GZVYNTAKCJe8bYeLqTljw3p-iyjol7uT27GREqZTd1pVqeLQSHwfy-pkVls9n_bJknjDizY0E8k4VQg5gEqH06l5cHa-I",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4Kl43j_l6Wcj8yafyEOrIYS0XTfIQ5VzJLX6z0EzV5Sa0DY0UKily1Yx3kRjhU_ectUNf6PAibFqRRjoebEQEKSdt1l8T",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSZInEROkZntXqySPJOI4bkFy9k4ZIyxLLcWivmF-FIp03mW-uW5-t1MKshbMIAvclOay7pQaIFdTNekKGNaLJLS-jiFdOP0ukZoimtbcM"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 14,
+      "title": "Microsoft 365 Family",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3797770018176945505",
+      "product_id": "3797770018176945505",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3797770018176945505",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8f9ae21ba15aa9fe39346179495ae79c4.png",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "rating": 4.7,
+      "reviews": 13000,
+      "snippet": "Good compatibility (635 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8520495fe2e600f7c821a84b08876d983.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-1q2EEFraTLKnl-FLmrynG-quqaynKIxpCddtK5-iO2PTTfq3IjwCqXO0UHXj82buMgS_RCWC1f6VhjUjKmHjY7NfqeGo0oC37vcqCSeZ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmvPHzep1hwHtIP31sboL8B1c1S37cKElTz5IiNTSMnm2VGmetgr6ykVHLXwFzqfqqRjf2b_ia6AXFnte_BfdFHUMSRkNqA-y-vC1rGARQ_w4yPpju8mIA"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 15,
+      "title": "Microsoft Surface Laptop Studio 2",
+      "product_link": "https://www.google.com/shopping/product/11864192856294578701?gl=us",
+      "product_id": "11864192856294578701",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11864192856294578701",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d882092317a2349fe90a04fa06e9651f6c.png",
+      "price": "$1,999.99",
+      "extracted_price": 1999.99,
+      "rating": 4.6,
+      "reviews": 261,
+      "snippet": "Fewer cores than most tablets",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8fcd36b551a5a9e57622d1a6803fa0e91.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFUPU7WW8yRTwzoZhRVd8C5DL5mudRR5c3DOChNw9t_DZfNUC9c5pDHZsJrxe5WYO6K6RUdxv9fJIRhMCrGtX-aEapFeXpYn_4fyTnPyH0jvhHby5FEu8R",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSL1h4oxI_U672yX0j3mzHWMh1gDDSw9RaLYhfEojEeLn8KBkt8ULDWp8SYTMi800BeKe7wSAtA-PLNFvjQanfiWVVePbQkr45JYy0oqV2v",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSs8fAWA9SocB8Q3PH12naLPjqvNC3Ibj7WH__jY8Erbgl1H6-vI3Y4kGKE-1lLxwV-DmCgQQTfdiI7eBlf5liKcn2zTajWI9cFzzQsbQ0WP6sN4vw5WGaXcw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGkyETJII0dzLupWaNAyee91r4pyZkdUyg9qRq_b-G7bbNTTIdGsvLjcwP0hAQBniL8AOpPrLq24STKvDikLWeO7IG4Yjhm14sWwj9XVIkIyKj9Fz25rDqQQ",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOLXN4cdgs_KGjydaWPbi5ZRkvfhnIPw3kOFq9xrz7d2NVm__JeS-MOHdLdUAcWsqol5azvKIUsFRMoHpWy8gkGe4cvlSwv_xlujFNM2lUjBkCZluL7b5P"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 16,
+      "title": "Microsoft Xbox Series X 1TB Console",
+      "product_link": "https://www.google.com/shopping/product/9266308480439568048?gl=us",
+      "product_id": "9266308480439568048",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9266308480439568048",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d80c5a97af98e210bc4c1470325f28befb.png",
+      "price": "$449.99",
+      "extracted_price": 449.99,
+      "rating": 4.6,
+      "reviews": 4700,
+      "snippet": "Performs well (412 user reviews)",
+      "extensions": ["Free 30-day returns", "Also nearby"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d80d14931c5b963b34aef455e75978e425.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZKnHkx9KmvLkixxFK6G5EQmyFaosm9klcexW_wsrnbNL4AMM6d7gpFGjAAaorMd9xc9DEgVPDODEXi38tVB0gWWoLtNv9OZYzB6Gqu7HkfO86P_w-fm6bX9Q",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLU3oFT1o53BJEMTkKtQbTosjoqPfla_QV6l0U7YFzoGyrdOAEfc7K0qrFh6brW5RlsUsep1mFELGoETcIPFVnKG5vgeYhzggDhHG9__CSJeNiMC2TgCj",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8A8bUY7DnZWgLtKGfsxCTm1wiHi1VkkMQJHZAsbk9Cgip3CzW_79BULXYfbdMrs95Ob_sjyUZz1bkhMU0Baipma3UtFup0QsA1niTgywHAa4RVRan7LzGHA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSM97nBven8uEcLvNwDcQVAdMCy3VH7j4wqVxjjcUPsa8bBdex0b8nb3Z16e90dagSp8cbUfDzJqNHpR8354oExgbbVjFlQi1mSpY8oLq9suSk8aaqL4jf129qF",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4idQj__pvc1fc1vKTnONcAFnfcD4BdSXpFzV0ptDxKn_yQ2cVy52aeCsbgMkcj9O-mEY7zBDmDZmF-fg5NSKhG5-yn4GOkDkr58gseo8xrkGPqLaKIF5w-Q"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 17,
+      "title": "Word Home and Student",
+      "product_link": "https://www.google.com/shopping/product/11997529054790564280?gl=us",
+      "product_id": "11997529054790564280",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11997529054790564280",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d82c818157f59d37f2fe281eacb7fc0ee1.png",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "rating": 5,
+      "reviews": 1,
+      "snippet": "Windows · Home · Software Suite",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d3d40edce89969f44a00652278b4a9e5.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSM-9fzUL9u5n2RFSPt1kilw5zLdoitiqD56Ff7sZZf0PPnEH7pGkgBA49uxz7rkSk8mXj1JkLP2wF4O_HTwH9wm8dIcdqTOm7g9AGURJxlkVxMN-30m95tOiA"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 18,
+      "title": "Microsoft Surface Arc Mouse",
+      "product_link": "https://www.google.com/shopping/product/11925210142879926675?gl=us",
+      "product_id": "11925210142879926675",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11925210142879926675",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d83e84dcfb60402f5df280fec7b409370e.png",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "rating": 4.6,
+      "reviews": 4300,
+      "snippet": "Easy to use (290 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8f05f020aa5ae5c4623af2e7ef30e180d.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRz3ZD5VQk8AGxODjLBKeFRorT61TT_t74URfdlrbvb97rg3ykS3V2f4pa2K-XKiWNs8BujbzFn4P13xCW9RIVNydnjLJ7LI3uSjNlhpyMN",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPRnt-kJA2lxqQ5JVb8jco8AOtCbErtaa_c7C6nJHcmmgUPtc1ZOuiXg6MR70DAfTI73A21XlymtmKp_-QNZOADC8LMOaKeZbqvwWWZoAa",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSh4P8WHa7pFWKpukAoTPCtcDyyj0G_EHkopD4l0BgLc3vlpHlr0K2mb9hzz7EwpDVz_wsx0rWtqUgcyUcMP3J4LL-KuV8rsFtsrz2AkWc",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT3c3u-jbZU01dmDp42EjqzlguCPjQeClqtYSujwybfQAuMSKQeNE-iX872OdQkHjutP8wqflnQvQKPBJy-BwupIre770WFjoBbiqz-QEs",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRNx-wHjOGRfu9Bfj8z5hGHN3EMN1qXL1hkHN3BSS8d3i4TMbtGzpY3twrZH_O4YunkdvJKTFBLrc5AKoSLk8egPYfJheeFCQ"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 19,
+      "title": "Microsoft Surface Laptop 6",
+      "product_link": "https://www.google.com/shopping/product/10228617083502724284?gl=us",
+      "product_id": "10228617083502724284",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10228617083502724284",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8a8fb7ddd5d0e4a702510d8753126bb98.png",
+      "price": "$1,709.99",
+      "extracted_price": 1709.99,
+      "old_price": "$1,900",
+      "extracted_old_price": 1900,
+      "rating": 4,
+      "reviews": 12,
+      "snippet": "Fewer cores than most laptops",
+      "extensions": ["Free 30-day returns", "10% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8429f54881dba5b10dffe9f8b808a708a.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRw2rsiB3JIA4s2N4KdxAMfKqXsev6SYIkg79_7qT33nX9xOykTl6XWYa_8kl2shvQYi4mqqvuLlc3NDFwxjEwp35ag8B1pm98_73KajMLwLIdUZ7GPKLe1pQ",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhIZyRJYOc6fPncl1mtZSV900iH0USr2IxB4LfdG6DFYlcJYP1Gdy1SANij2GKBNeGwKeXNTV8k4LmSfgjABoad8TfK9Cvw22T6Ccie-Lq",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTgUCoorlZLYCchl3FZx1kPHtffT9hrgJltYHzyEO9IVmOv7GUltrBpYjsjIKs5xyZkGF4ruq_XGAfFgxRq6bF5j85REJkRsM402xrkIcgIzjKAsyBlpu10",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAQ9Yhm646bOov5tIQT29exbzYsN-ATtQ7h2aAqAUA-osCrTYmAFQup_QRhLtb-KtYHmKSdP9LtURCZ2GkXAi6ontGYJQw3uLtvQvG5Wqp",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRoDvWkgtzScjI1EL1QGEqPngkAZZ5hHr-8EsYOp38akMSE_Ec8w9wzVsKHGJpIj_WSC-enXH6B8plw_g_txYsiEPGJF3C0JvKf0Snm19w"
+      ],
+      "tag": "10% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 20,
+      "title": "Microsoft Project Professional 2024",
+      "product_link": "https://www.google.com/shopping/product/17273395933707311094?gl=us",
+      "product_id": "17273395933707311094",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17273395933707311094",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d861c0b7022022013b3426d431c7fa01f7.png",
+      "price": "$1,129.99",
+      "extracted_price": 1129.99,
+      "rating": 4.8,
+      "reviews": 98,
+      "snippet": "Windows · Business · Project Management",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d88fd0105d8555628995e5db4875bcb467.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNiWp8_qiZFdigVVBYqo6DQHqT9lppbFTIrLHzdlAcNyPec1-JYTCOXg_O-IhFWgjD4t5A-Z7p_ivLkeBOvmrnDbxZbLpO",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRNk7xpEmABkR3p16qAAbx588k90AWckxSAqBNuninJcsj7YpWjqj0KZRWmGWTEbbbCekVDmF5DaPzKBoy2mBQca4y_z4-0JWrNs-0VzvgsezTjbe0GmkoDBw",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8H_jwsztBSTy-Olhccnwug8WHMetEMkZ-MMNv2sOIrvReIFuapkSYGq0gq_-5A74usypf9_3K2N99_LuSmdJBlvD4ANt_PrAQoPBxodl7W98zxIOEda-Rp6vt",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCtoY-wnlWUB9ozk6hquBhfpemjmSu2yDHutft7RbSVatEKkUBooDcVUWbAdqv7RvEzNQT41QmvTVuAhRIg5r0jjePCklOLQuV3uZeliI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQPW9e1TvmBYmiVeiDHmpFMbU9-vdj6lokOwP9BVTuSTv4E6lSj6Il9PaqLsDNxHeuvmshtUUhwQyonndedvMLCZ5KKq2ay-SMGg0cvSO3aLppWlVBXmq9o"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 21,
+      "title": "Microsoft Office 2021 Home Student",
+      "product_link": "https://www.google.com/shopping/product/6214757749746323299?gl=us",
+      "product_id": "6214757749746323299",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6214757749746323299",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d85007fb7d373982ccfc33f7487600b90b.png",
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "rating": 4.6,
+      "reviews": 4100,
+      "snippet": "Performs well (326 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d86a9424d31284fc5282c90151cea34e71.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOwVA0dHPq-m-XRCqpOk03F1MONGBrNMrLw6GmxI-_vTqyaj3WEFzOApX1afASz1SSSiGr1FpJTQNDxcxnsFeygCc0D2Cyv6ctOEVeVJJmuK2bHeZVZy3KEA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQgD6r33mHawxkZ_yTd5sNeeMkFPjnHN4ZMvVdNu2m4gfRZAdvPzPyEDwAsklKh1AGtqE-aCuSb-luFJNcsvR-YkcgxIWCWzkEsv0mR-GTFQy-yqejccD_P",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwfDEPx1ccffLDEYx88f1TNCrLQEbD8RR08lInjP1EUaAC6nLBIBm0syuky49WIcqyZ11RH3XF9i5vulH1pkWpjy6ACkLkC2eHIrI0dHA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQYrCOSylvjoLB26nPLPQ2iL9MNWWDL2yrcGb0Vn50OxC_XJY0nqkDrcc3DCHqZILBapWrCuMLIBmQkP2uj_QCJhuIV4tWvMYO_6kNudj-dfl80sPggbGdegg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-qt3wTruSwN8JvMtiUXUO-dHJRXAPrWe1q-IyAxvUv-2zGUQvCd3jcuchoJWZYHAnwOhX2ILGgK5uoei-HFN39XqXHGvwnAABV0eszVgF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 22,
+      "title": "Microsoft Surface Laptop 7 Notebook",
+      "product_link": "https://www.google.com/shopping/product/8443041122539589007?gl=us",
+      "product_id": "8443041122539589007",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8443041122539589007",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d86ee6681e01537b8216387ce36087ff1e.png",
+      "price": "$1,599.99",
+      "extracted_price": 1599.99,
+      "rating": 4.6,
+      "reviews": 8,
+      "snippet": "More memory than most laptops",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d82450558440e95917c16884aaa1dcd6cd.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6FeEfHoXTTpM0b4eOQadEENcixF_FzSA0hELQWrAlHstrf-v5tselSaryJBV24HsMR1GlxIMUtHXVnHxRo5UySlLSmnJ_Ydl-oOz9cx0A9NBmR69qmU0j",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQkYPPlfsTc-hfUVemFCGcJTdv81ZTDJLFsU8v0k7A8EuKsHDTLSs74XQCqI8cEt6ocIejZfD1uvlBKYL71su4yunXIwFQ2q9ZIHJSd5rcDnoh1tsZIzCU3A",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSpiOOUssvWTyBVr7Z3nG8O0Dg4HRW8UZoG3VJeQEpHa5qwXbm4xDPJoL3iggl0tNIDP4lJN4kuyXXPKXvn1Nt-O2FKavSqmbH2ELJnVSCZF7OWIFfn1z2M",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRNQxR27bC73NUAc7LhfjbjhOSi40g3eTXQXuTRp4bELKSpYf-6lU8RZdAQcHdzz83dm2hPLBNloiZzPgXpQjx0RSdE2xDDQ9VqyWDcxZya",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0y2en5SAXM6lknuaOdN-MOpQeyTaF8UeOw75I-4mIsKECZqevj8z1U_bf5cfHvMvZYrNos_bEljuXeTSl7MgkwOJRdqCn4eeQyn8pH7X4_Pa1Hu22HD_7"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 23,
+      "title": "Microsoft Office Home Business 2021",
+      "product_link": "https://www.google.com/shopping/product/9225861893798061765?gl=us",
+      "product_id": "9225861893798061765",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9225861893798061765",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8185301bffb0587bac2917164e9edc297.png",
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "rating": 4.7,
+      "reviews": 8500,
+      "snippet": "Easy to set up (772 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d820a101ce8a8c9310da0fd17418026839.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSN48KaQ9Sm_4Gk6o_anFRu7KErHnHTlvNSO1rNsyFJrsGohtUNv_MOn1FVVi81OmZTlFvkqOIDB4InWRwDvRBaSZTP6J8WgAzfEda1KORIhJ0ZtgPEKJgZgA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQe1DlBB9EcMTogMP_EeMTR9p2-bX9weE0sAqqmGyKsqZhshhqaSWkQpy4bxWdgiBVrNDT0l-h-EX4d-Qj9vS_vWsofBTdcuATPZKG5iZCJLR9eOHwGfF2_",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeJ8IR6G08nqazLABOYn1XQK1Yeg4WIm-gbe4U08MU8jkRORgqKNRH6uyb2A1A2by-QdJvNlgfc_a2gOavFI5nrYOs_Q6qm7doOT9vOYFkcLP9SC5HxgYw"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 24,
+      "title": "Microsoft Surface Dock 2",
+      "product_link": "https://www.google.com/shopping/product/14510416449612912110?gl=us",
+      "product_id": "14510416449612912110",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14510416449612912110",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d861faada4acf4dd10746c1ca21e057843.png",
+      "price": "$259.99",
+      "extracted_price": 259.99,
+      "rating": 4.4,
+      "reviews": 838,
+      "snippet": "Performs well (186 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8703fb6d4907645e956609ad35d4368cb.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhGMILmLtwrHN-GYdik6aQDtMzKdMtE54Sff1t_xiivYSz5X1eE6C0GyRAdjscaTnCRZ7LcUH3Lv4y2jEVeSakqNv1F_1RX948bIyKBPC1AIOTGafiMNshDg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5_GXKIXC7g10CPMY-3evV_6fZC61u9maUIdpi2OnQZ80dwc4nBHJFAyt1XOY8JOFt2vm2YhhmFpTSPTR2PYhy1ib9Af-5LGH-w61Lq-gt",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTeX7bT7bHCdemhr8rmuDQnLAnLRAYqWt37QHgHZxYcSAqx-DB2YF6OxwZLTzgddvU_ceIeRYXyrZAdHds1Zmgm18X8RXw3bebJQjp08460zUVt7tBNQGD-",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRft6HR0jaSM_Rse2gw0ypV84ncq4ApTHK1zzMSO_1f9reMhczNTeKEkvDIrgaIBwJR4GLLUjWppc6lI10nKnbPeyEF8tm56cKgR2oQZuFGbnmXbGtgmdpk3w",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjxINCcPZ7SEJNr-OgV2zbde8Q1sqv3O_BQ_lCK2z3WfhRhUXOBYJPTs1LQOu2Xjf_MEopAS1PM1gGriQsgGkshkiq4JP-lzRq_cc-8Pf3p2yEDjtQdT9-"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 25,
+      "title": "Excel",
+      "product_link": "https://www.google.com/shopping/product/4761756933815413608?gl=us",
+      "product_id": "4761756933815413608",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4761756933815413608",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d846870dc10eec1adcd50c4ec2552a07be.png",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "rating": 4.8,
+      "reviews": 7,
+      "snippet": "Windows · Home · Software Suite",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d85218c18faf7a2fe924d0b9a1be2229ee.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTxkO4TUMG9gLR7MJISuodrP4dxPFvtH8CDRkT9a6sn2jhnLWjmmblzlukZDSRba-R7pfRT0QnVD3N7BDLnxee9OM8snuU-ZanULDf1B-iAdkiRN-1f2QZqutg"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 26,
+      "title": "Microsoft Wireless Controller Xbox",
+      "product_link": "https://www.google.com/shopping/product/16958302121080058452?gl=us",
+      "product_id": "16958302121080058452",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16958302121080058452",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8cf08126977968e15a5234052cfe7e9ea.png",
+      "price": "$45.30",
+      "extracted_price": 45.3,
+      "old_price": "$65",
+      "extracted_old_price": 65,
+      "rating": 4.6,
+      "reviews": 55000,
+      "snippet": "Performs well (5,974 user reviews)",
+      "extensions": ["Free 30-day returns", "30% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8ae95466f4bca6f8aff798cf26d495cf3.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUUI-Zfq1WBZpg3tAKN5XROhr8HvAqMtVnFREAYHlMFPNfvMemrb6bh810C7CeLPPmf-1Sqe0DeGGGd4sfk_pglhkMIzY_nYcz3lOrEP9p-KRaRGvCbsMoZw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrJVJoX2hor-CIFTI5bDkAOSq0BQFL98od64gF6oK0ijwNE5h-0e-ZWA749U11bCEjzIF8AQ8-7UGDPcUghzcNc7C06j8zotTyIeKkzKY4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFfH4IlP8-zNiMct0rKp3EePMSPG5501HNRsv6Omqteg4Pn0JRPGG-jsTVLJQxEQVpMyI2Cv6qvwVLrkSzoum2orMs6sEgvAyS7oj2vjVzxVbdmclzdgz0",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSdxnmDa0gUjODNhONP8mMJPFppkEjn1fy4JnkKjuej0Wi2zAZd8p1O037Ws2A_Nt6C5Yh77VIkmJd0GnlN0N2ekG4q4tA5xA0T6H5JmYg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT5xIzoYSm_vRllnTgVQgdDWT79eIAjM9GwVuQIEc3tw9iTDubcyuuHq9sI4dmI6tBbj9I4h5Qn_t_-5wTMlNNone7I9iKAQD_hxz6Fwq7y"
+      ],
+      "tag": "30% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 27,
+      "title": "Microsoft Visio 2024 Standard EP2-07167",
+      "product_link": "https://www.google.com/shopping/product/10711642204548889689?gl=us",
+      "product_id": "10711642204548889689",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10711642204548889689",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8edf614696a14b5b3d085df207ce55e47.png",
+      "price": "$309.99",
+      "extracted_price": 309.99,
+      "rating": 4.8,
+      "reviews": 154,
+      "snippet": "Windows · Diagram / Chart",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8b39ed0e914dbf80dc25521f8f2d062d2.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXA0b2AT4qvm2wOXl5a30KQ88rgYR9JZO8bJO7lFqAI7WZYTtkl4tqyzMID6NSuLnXS3WQ5UEJcDW_wg85DiQYbBdn7jgM",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSV3eFnGdv4jyDTqPJajQetGhgsgyFtGZu26ZOkq-WxkEUgqpPnZS2t3ZNddvKyQexL-puLaGdW_xwpLqDwA40uDeXaXbqvvBIvQ7Q3S9qkCoS59S6FNjRU",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-plSQkh3DhmDHzecC9_xfYW4VTuoHkQbmP5iIcVaSx48456Tys5-Lb8w-MwYo3VT57TV1RQjCZ7bHOfuvy4R5RRN80wsyfr3usetroWm8LYWGADXNNwv3",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQzkzTQ7cPwPd1IbCw0jHK3NtQgp1NbIWGIh_c-2sh4IwsxdqctbbdDplBDIsk2c3x3nT4ma8jxp-xLKT6oXTttG9yh8rBz_oQuAq7xBbl7Vm28_IXeVoyUdA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQFmgKjAwhwC-rPklQ1Iam3JR-IpmzHHfSoV1LJjpFWu1b33IL2JsOeasURSkpRE0NS7XyPQEFL5SpDoKjSw3R23LgQBP0vMIPWpU8qiBlVYUx0phC4ZxZ0rg"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 28,
+      "title": "Microsoft Surface Pro 10 5G Ultra7 / 64 / 1TB Platinum",
+      "product_link": "https://www.google.com/shopping/product/733716486535869905?gl=us",
+      "product_id": "733716486535869905",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=733716486535869905",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8e572b09bb3bc03ce0817c92901bdabb1.png",
+      "price": "$3,099.99",
+      "extracted_price": 3099.99,
+      "snippet": "1 TB Storage · 16 hours battery · English",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d851ba2291ed643ed9e5ab4abfaf3c7bc1.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQaind8OGOXtSpTDN-yiWOQn7ZA8lt8_GWlCY5WTa-6M3v3BToJAIcKCyF3TL2Zp5-feo4A6ndPxwfzGEaxbTGBbveji3_G5EGzoKWLW3x_M_WA-9lYA3krcCA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7fB2MjsX-eHGYSw0m_UigV67UpMZPdecGEE4fl3DmlA5gKyqhW2Ckd_4mbIGzTDpiOeayoALG_uBrmilZTBIbwkw_PQsB",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7usqRawfl_BcNgT_yeFlCYwrLxVVZqidUeKv7jwlITyosOVjBvCWiKCl7WNGZ3u9MiIMEg1bTf_tkjga722vWs2IWJ525X8j88FLpcEE",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQid2_3c7G18Z432R1bdFRw2oxRW7OojFCFQLOHksFjts84f8rkZpu_Vb1fu1JjitbNz8U0b4hphXq0WMHyCar0vEHDZsVfUg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-4S-FfUEyfaVIs6qMS3ruwpTOKXvP7Qr0Hqnrw2K2BuU4wsdJB-yJnO6_D73tImNLaOaaN-9gO93nHkokK91kGml8ne_tAvv39Yakgrcqb8koicbbwYVM"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 29,
+      "title": "Microsoft Project Professional 2021",
+      "product_link": "https://www.google.com/shopping/product/9041354585032555395?gl=us",
+      "product_id": "9041354585032555395",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9041354585032555395",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8aa54bc195f759f2f1b972d936eca37d2.png",
+      "price": "$1,129.99",
+      "extracted_price": 1129.99,
+      "rating": 4.8,
+      "reviews": 1500,
+      "snippet": "Performs well (104 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8f2fd75e19d8d40cd0a72a29cf4cdc6e7.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8H_jwsztBSTy-Olhccnwug8WHMetEMkZ-MMNv2sOIrvReIFuapkSYGq0gq_-5A74usypf9_3K2N99_LuSmdJBlvD4ANt_PrAQoPBxodl7W98zxIOEda-Rp6vt",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToOG4_g2GxBMaz8fZzSuikPzd6XOqL81WqY9fWTd0-bzPz_rZoOPDVcqLGKbFg2n-FloI0LQa_IR-gOAWRkgK8E5phZvbfYOwHhgI4C2xS",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_6viLUEaR93ANlKgpe2w8SltrjmKiaNKzRvffTFKvXPiaJ_4ibg9KlFmoucL3E3iCFjniIxIdHdGoZ1lsfqch7gNQmbdlMo7ADzB_dsOFgrA8_zYTaVZ9"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 30,
+      "title": "Outlook",
+      "product_link": "https://www.google.com/shopping/product/10059619570621411724?gl=us",
+      "product_id": "10059619570621411724",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10059619570621411724",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d87300764ff62b01e5db74663ab2d9b097.png",
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d80ac7a7ee6aa7a3a774ff9c3d4b740e3d.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpZZT4SBSU3ntqPM48D2E2-SConFegzfB7wB9pjnO8Onxzl_36aBdS4VYMn2BqpXBNNIbO50z6sWL_mU7G5D7LM4U-iWYE"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 31,
+      "title": "Microsoft Visio 2024 Professional",
+      "product_link": "https://www.google.com/shopping/product/14905893638061223510?gl=us",
+      "product_id": "14905893638061223510",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14905893638061223510",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d806c1cf4e6d051223cc5d7e23d65c325c.png",
+      "price": "$579.99",
+      "extracted_price": 579.99,
+      "rating": 4.5,
+      "reviews": 24,
+      "snippet": "Windows · Digital Download · Business",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8862e65c194c0d7995e2d5e500374667f.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXA0b2AT4qvm2wOXl5a30KQ88rgYR9JZO8bJO7lFqAI7WZYTtkl4tqyzMID6NSuLnXS3WQ5UEJcDW_wg85DiQYbBdn7jgM",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSijT00OhzaDJzcd00kvwvtCCUtC3xBpsjHq0kQsVLJGVtOaOFvUJ2ctkEMGhK7QOOCw3FeGMHUXrxHFORNvb7rJBzmF5sA-_ZQWUggk4c-NxbXel1ioz_y",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIGPj1e9uF-xBVTCLGlthZqeqQZDuyh25_euJNKI6Eq1yVEDJxHIljnZwgKq-bfcgyqgx_pOHS4fgCC8JyDAWGvLcFEYK8NxDDjQntjqyecw12SKPbgX-lhw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnrqT3XCc_0_qxyQ7C_BDxxQ2YpF4CMeBCqCXHhF9Gjui2zvSfnPT9_g9hxmGQCRmES422JXFZgAj9PF7ogUWe0Z6tYcdtWozvJAY5WZmF",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVzJ4VOq6OGjN5QRVC5aecOYwKIIUN5P0BL1na5gftfC1g9X-rK16F4QwSeUhEh1Z3M5iAt2vP4n8XK9L-2fTi3L0ttesGVlFUosRdXocc"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 32,
+      "title": "PowerPoint Home and Student",
+      "product_link": "https://www.google.com/shopping/product/703810663895538477?gl=us",
+      "product_id": "703810663895538477",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=703810663895538477",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8ca357635fe56deb15f7c9a26b6a6e2c1.png",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "snippet": "Windows · Home · Software Suite",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8ec5121e0eeb93748d017bdf258dfbaa7.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS1DsQ2mQakeCN-EHyU6KIGaC9lN2J26LcJvHuhKzDIwziAWBA9iJEHvPYoCzdP-dN3xulISxf3H9L40EX2GVoKOx2EUXL7J6CwNOeI2WgUcP1xTrSYustcS4U"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 33,
+      "title": "Microsoft Project 2021 Standard 076-05916",
+      "product_link": "https://www.google.com/shopping/product/11995184488906734106?gl=us",
+      "product_id": "11995184488906734106",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11995184488906734106",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d861fa976c9c66cad92005ace2abdf187d.png",
+      "price": "$679.99",
+      "extracted_price": 679.99,
+      "rating": 4.9,
+      "reviews": 133,
+      "snippet": "Easy to use (34 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8459873aa079fc4944228164519fe86c2.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT6vjTjA4cymsW7dayzv_MIWD9XEy2E6NQJyeEreNl7MxxO_gZx_MoBgsXybFyCSaHtuIaqPtiWmYLSbR6299uIzU8bEPEKWfLaskBLhwnHyt9GS7OZ-fCpa1Ef",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXFHYF7UT-R0Votq6FY9pgHDt73rzhJNtkRESvNXK5rXbLHLQ2WQxGPwHJ2lUviNkkfYJnPVTFti9540pzkyQz7NiGsWRwtFh-snGao-bD8_v0pFj7Ri1n",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFs6tPWc92CotKrg_BiA4ILp1OjmDi7m0oTQ8Vc8a6FGLuzq1oWUi3l--rNmpO2LA0_o6OmJAH5wjNOs4WS1b6hx8l7OPtT_zZCq_hvPtz",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRf3ISB4whHb9WgbwlunyDu74oCQOY6rC42csVKfO2e7wsTs1Zhc7X5TCVFvuQuV-d8X3xOiKpaCLKaEJa6-Cj0PgFnnWXgoA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQebpWHdPjLrzUa6biLH-Jg2A2gljWkQBSSaPWcURlQ0OgSfgKsOqvMHI7X2gJpCcGR0G4PYbwvIs9MINq6zY0tN9gAdJQv"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 34,
+      "title": "Microsoft Surface Slim Pen 2",
+      "product_link": "https://www.google.com/shopping/product/9874824138736260696?gl=us",
+      "product_id": "9874824138736260696",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9874824138736260696",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d802000450597f22dfe9b496f3995e6433.png",
+      "price": "$129.99",
+      "extracted_price": 129.99,
+      "rating": 4.5,
+      "reviews": 923,
+      "snippet": "Comfortable to use (100 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d838a16416b4bc9339162f7a4b7842dc01.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZ58oDJfhPbG1_T5sjjrHFFsWLjHSSafpRmkFcvzFj7JLVFM8QbuBabDr-rcRkKydJ124IniR7i-XNqrEnEUTDdoBUK4iCPzVHy6z17PnF",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAHZQ94K3kwPtsMdT3bvC5R01h-gfmcjgI6dZiWMkGJZAtLL9rDhaybPld0a8SICCH_7VuSRUw1a3mU3eiZEGaYBV91tuWpkU46u25-_E",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRIsNxHIIKiWLiJBRrG49r9fEYUFf9C0skgsinwpZaut-I4Fbc9NKMLHh0nFm749AunYkmY4A9E2jFyZDm92DrLxYrj6gEzctGOTQjTJ9kSxBzyhdBQeuF971o",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgCTlIUaNqEHslTei0oGRzwCUVeF2QBRsQsY6w_AXMx3lU13JycEzzGUkdQUG04OAuuPzwm5Kv_UHsXOFGbn5_i_6OSxoDSWQyRKCZa5nrVkXHd_Gsjm8O",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUM2V9SRT8hDHC4ArtexnVHzq4bgT6vyj89_1TxImrwwxxo2kOZ1A3P6L0weCYiFTM876X3vrrxy9pELQF0W_jmrm6MYfZcMrQNBxSpVxp4qbbJG4q6dr0"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 35,
+      "title": "Microsoft Visio 2021 Standard",
+      "product_link": "https://www.google.com/shopping/product/4512633422383883328?gl=us",
+      "product_id": "4512633422383883328",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4512633422383883328",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8e6a03b3aaeb4bd2d4022c50c0f134a7f.png",
+      "price": "$309.99",
+      "extracted_price": 309.99,
+      "rating": 4.9,
+      "reviews": 145,
+      "snippet": "Easy to use (43 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d4d6ba724f3a706a83b87b4c56c574ad.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIGPj1e9uF-xBVTCLGlthZqeqQZDuyh25_euJNKI6Eq1yVEDJxHIljnZwgKq-bfcgyqgx_pOHS4fgCC8JyDAWGvLcFEYK8NxDDjQntjqyecw12SKPbgX-lhw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSNGIRZDZhlLRt3XpG5pqV0oPvh4xaxXWbMywvroaLrbEKs9Ebtd6iLSj2NFqxCWIzZQ2SZm8P5K6lxCdMBBE6PEAuusfSwWCmGuzagKbRRdTe6gPourDzh",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSV3eFnGdv4jyDTqPJajQetGhgsgyFtGZu26ZOkq-WxkEUgqpPnZS2t3ZNddvKyQexL-puLaGdW_xwpLqDwA40uDeXaXbqvvBIvQ7Q3S9qkCoS59S6FNjRU",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMmBJxDKC6jf5kmwMz_roQG6aytljPNiNMYKFGz2uZ74FMLZoDOoPxPWsRDOEYX6oWzkHDJx19mw2WsZEFZf-uGu17ZyLQItCi8XgUnKU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSRqlJHW2KQ89R5otMtl3c7NJXfOy7d6IJR0Ky_t2PFYN9WqP9KPMQ1FQ72DWZ3-_3pHA5QQMMBhm_1BeHOcPxoQy_kJrhY"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 36,
+      "title": "Microsoft Office Professional Plus 2021",
+      "product_link": "https://www.google.com/shopping/product/8780417832155333334?gl=us",
+      "product_id": "8780417832155333334",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8780417832155333334",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8ad931906dc6795be152a936bfea7bdbf.png",
+      "price": "$439.99",
+      "extracted_price": 439.99,
+      "rating": 4.8,
+      "reviews": 71000,
+      "snippet": "Easy to set up (6,367 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d85a03ba394af0840d7152dcd46608b9e0.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS48ZGTQvEG-9XEGLG4_Yr-oIPwcgXdSN6tokn9xDCKSZQMuWOSz2n8fIUh1Ejr-DjGrH6i-A-h1FPrqyfWgW5ZovJ87SLbphelYsQHfp-Xz7MZ5x82YA2ptw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMCCHIjQQPijWxX_23a5Ax5AGAYp6-xFW8l_QUtx55K-nL3SvBkZaxHJ6EZR-jsbS6RCcsRGA-cIcG21qlINEqkGNguay0"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 37,
+      "title": "Microsoft Xbox Elite Core Series 2 Wireless Controller",
+      "product_link": "https://www.google.com/shopping/product/2158268074381837676?gl=us",
+      "product_id": "2158268074381837676",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2158268074381837676",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d2dcb891e041311098c8b9f5660c891f.png",
+      "price": "$100.58",
+      "extracted_price": 100.58,
+      "old_price": "$130",
+      "extracted_old_price": 130,
+      "rating": 4.3,
+      "reviews": 6700,
+      "snippet": "Performs well (471 user reviews)",
+      "extensions": ["Free 30-day returns", "22% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8a7c46beae4ac775136d1daf011f87a7b.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_RPk6DW7rWmF1zXwc5b225mLkj1GcOEr4kRGHxm3mLtTxnzLYqJrGEQRgvBJrppKNAfex2iSvpkNOLrIZWBTwuW03G4t7_i3GvMIyW4dKE9GiY3rXGH4k",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTKigvq0fMGhDKgETK8bnPC0nouCmwyiDvaECRrOqVr4_inDT-dUJk1R9noy0GQIij23vJM2Hejl04vWa9t0nxgUIPEcN1W5UiodcaLOVLH",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRJZNfcQ_fl2AW39Jv6M8-nlH8O7iSFLCWaFlIgb5hCsuCCXtGxRdqxtsnG0hynYgfsWnYhUVCR2n3VCnpo8xtANddR6q7zHSKxiGh-GR2zNoe99vZbeuK",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkvG4c9GseTjkqLrdfBVYeUWGUgfQDauRDgYC5OUmqymanzszCyRqS4Kx6HMriNtiz2AQMSN8eWsgd-WGTa5O1Cv4Joc9MjsL-n1ENRiq6AKWrimpoH_L4",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROBrYzA4U02ccW9EOCL9RxXQzJZI3e361cEreaBzgycr6bK4HZcOveWTnGhEOsTBm2kRGpxNmC8PmU0FS2Eoj0Re4EfwaH1aS3VlCnDFIPosVrAFCVH27XJw"
+      ],
+      "tag": "22% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 38,
+      "title": "Microsoft Visio 2021 Professional",
+      "product_link": "https://www.google.com/shopping/product/13376780639521209138?gl=us",
+      "product_id": "13376780639521209138",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13376780639521209138",
+      "source": "Microsoft Store",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8d43969b47f42c87f739f247427e8a89a.png",
+      "price": "$579.99",
+      "extracted_price": 579.99,
+      "rating": 4.8,
+      "reviews": 1500,
+      "snippet": "Performs well (85 user reviews)",
+      "extensions": ["Free 30-day returns"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8920f72dcbe796ae62792fadf2594798d.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIGPj1e9uF-xBVTCLGlthZqeqQZDuyh25_euJNKI6Eq1yVEDJxHIljnZwgKq-bfcgyqgx_pOHS4fgCC8JyDAWGvLcFEYK8NxDDjQntjqyecw12SKPbgX-lhw",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqbOL1VfDLJOeMqZ2Cmsvw6fEmq5WYMSj_mwe-RD5l8IwCvszog9yTc4k5r1kaR0qOiWfMlFnXdVOM9e7qbDk8iJU31ksCBnTrsYkESTmMIQ5G0lPQNxiZfg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTXdA-C88QUQHYPJlAdy2qcHS-hPc2PT1GPpvIZXFiH7rMQyK3cigVgM-YoH4NL2cr1lzFgR9fHfP4e-wsicxlyPn5bQW04QY-1s9-jvh8",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcScgBtwwEKk9VQHdzNfeAFTZ8kPoV2jm0sLuLVYQ5m20p_M4BYCM1147rY3AdN4BJSQj6zjcHSewk4qAZAVWuhQ7H8oHikXBO3b7dW40teM",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIvpYwEGjkuI4gPoafXyiL9JGYHYZRMeYLTAsRdQ0pS81_2JXLVR6I0XNcVr9Nl_yTeMk610v4XBDf77lCQVhJW_dbBrcCOy_YNEA0ID0"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 39,
+      "title": "Microsoft Office Home 2024",
+      "product_link": "https://www.google.com/shopping/product/9014477524592875065?gl=us",
+      "product_id": "9014477524592875065",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9014477524592875065",
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d87651f93020d4cd65548e30d2696718a9.png",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "old_price": "$150",
+      "extracted_old_price": 150,
+      "rating": 4.6,
+      "reviews": 3800,
+      "snippet": "Performs well (224 user reviews)",
+      "extensions": ["Also nearby", "33% OFF"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8409e303befa6674047797d03f1c22f3f.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSPYPjEPTxOz3MKGM03IsBkrPhEaHoLgqQMDORzzODBjp8XdIn6iBB-vMq-ioVki3afsyH3uG7dK0KsdLERRnwp9QasIIdgqps5SWphN3Wc8B1pIIclihCbqg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5AGzKZJ4Gl1DNcTt0Zm_L-tKRtVbxbZ4QhASUVevTKTSHP774EzBvh-czMOO1mVbYdSSdOWoHLA4wau8yE0X0qF4fmyJLwIrzu0fwIStgrhsc0XueU2I3qA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxOEXpFNiIjQBpN84tnLI_SdDxzQpI3WCA8TFkc5FDhdLFhaJai8MdeH3F7GbZZOOPF4OVdK8nAdMliDr5mVIvojhI1Uld_KtJOh68WDDdps7dLf2Dn10m",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0pmhzwJErm5Z1pGAKYWfurfBxjiY9JONyOqDascidmN52qYecawf4d470AbYKW8eR4Rv1r_vUZD43ElcsrOxqsjFv7zh7cvtUHOkqOgISNeJOjIz5v6ya",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRod_KZKcpprIoAxCUKFdyyfKDaR1Y6XDekEiCDEAcgV491ZssWwvTd7datjVbdJh-mFfdqG2poGzkUS8oHC1e-fCvsqTI9IFM96o3LkUk"
+      ],
+      "tag": "33% OFF",
+      "delivery": "Free delivery by Dec 30"
+    },
+    {
+      "position": 40,
+      "title": "Microsoft Xbox Series X",
+      "product_link": "https://www.google.com/shopping/product/18645849156115410?gl=us",
+      "product_id": "18645849156115410",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18645849156115410",
+      "source": "Walmart",
+      "source_icon": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d85f9211463e96cedc17120a623bffb1a9.png",
+      "price": "$498.00",
+      "extracted_price": 498,
+      "rating": 4.7,
+      "reviews": 60000,
+      "snippet": "Performs well (8,875 user reviews)",
+      "extensions": ["Free 90-day returns", "Nearby, 7 mi"],
+      "thumbnail": "https://serpapi.com/searches/6764b45ae42b28e75ce2252a/images/67b38121fa44e98869c988e4e69684d8eb832ce70cde88e93f8cf031d44446f7.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFKoy5VCO15oBTpgCDgenbh6nJlOgfyF8Y2Yw5NOZmh46Ywb-eiEmXqlMJFniQ9KE5uZ48ugsdOOJ3f-zNeP_ilm31tDvLb7X_WL0JKE755jr10WYUy54y",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCJ-vVR2y7oVmxNN44mG8domVzrRlwlnL7U49nUkZtcHy_4ZLA6fnejVnCVa8suE7IpUfPye_qYhT0Se1_Tdd9sgDMjzH7",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSsBEnvVpysEUNWNV_hwA99OTJndScXJwUxW-UIvBd2jOp9IbR81PEpkAeBjkXFRTvCgg8rQVUUiTA7eQ_HO52XYa6fV6gF",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSmOgJBL2a4AifIsvspHyNlCiD2UFA-PhP_gCoVNB39RQLz2ESS-rM7LY1cGE49qaSfbFVYFou92tJKDX20GUeqvnKqL5UA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWOel0CfqDxwssW3p1XVUhoDB5EQtlY7CmjzNT0Og4yAXs7XQJnq8YgbHwyrSaypEiI9fLr1kG7lySuCthEq3hY3hz4tjq6A"
+      ],
+      "delivery": "Get it tomorrow ($10)"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Microsoft&start=10"
+  }
+}

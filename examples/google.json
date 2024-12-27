@@ -1,0 +1,455 @@
+{
+  "search_metadata": {
+    "id": "6764b41b6d75fcded9955430",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d63cfcbf0539dc4c/6764b41b6d75fcded9955430.json",
+    "created_at": "2024-12-20 00:02:35 UTC",
+    "processed_at": "2024-12-20 00:02:35 UTC",
+    "google_url": "https://www.google.com/search?q=Microsoft&oq=Microsoft&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d63cfcbf0539dc4c/6764b41b6d75fcded9955430.html",
+    "total_time_taken": 2.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Microsoft",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Microsoft",
+    "total_results": 5880000000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Microsoft",
+    "type": "Technology company",
+    "entity_type": "companies, chains, company",
+    "kgmid": "/m/04sv4",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04sv4&hl=en-US&q=Microsoft",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04sv4&location=Austin%2C+Texas%2C+United+States&q=Microsoft",
+    "image": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/bd077f78c6a9c7830ff003a478d9779af81e3c00272444b3.png",
+    "website": "http://www.microsoft.com/",
+    "ceo": "Satya Nadella (Feb 4, 2014–)",
+    "ceo_links": [
+      {
+        "text": "Satya Nadella",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Satya+Nadella&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQcFjCqTlR8-xmMOMZNPPvTTSnSnVz4c-qoEqaicIdcNceVQVkp-kZ2hemcvmemTgJCetiQkZ47X93_ICE6nclKDUTrsq3YM0AXF9ae3wFR_q89AEeF9X1FcsDZq2QHXlIaikR-HWjMFrfF_NH4BpcTDpn4iY&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAHoECEUQAg"
+      }
+    ],
+    "cfo": "Amy Hood",
+    "cfo_links": [
+      {
+        "text": "Amy Hood",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Amy+Hood&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQdLzMmZ70MXNnPtK-9ZEcb3etxzugAMcsynAto5k68CCiCV3DwR9J6Iqc7DJqal-pHlNyvPdkf86MfygOVWpZ10ZDnk-h3DNG7hcMAFI49-JsmIcIFYaAgBWaWLn2SUDsi7q3NaCaDQiYCOKRp6t-R4BdrOG&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAHoECEYQAg"
+      }
+    ],
+    "cmo": "Takeshi Numoto",
+    "cmo_links": [
+      {
+        "text": "Takeshi Numoto",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Takeshi+Numoto&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgKDYRFxvXc_M_XCzWdEz2zd8fMRF2r_UqIsTY8WPeSOeipBisNP1hWJ7edhqogXQOcdLSA8izqJtVJeMwXd1_GEB8eIf_Kruoqk8E4tFhpKxGTtdmkn1WNlxga6o2It-JKtsVFDo9HL47SRy80Harx4EicUkupB3nJjAtSqixEorCWXEfA%3D%3D&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAHoECEcQAg"
+      }
+    ],
+    "cto": "Kevin Scott, Victor Bahl",
+    "cto_links": [
+      {
+        "text": "Kevin Scott",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Kevin+Scott&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDCNCi7JzsMVVWDaEM7n0dryDBdv9xrf52whb9WeGFOE_Zb25G2Ew4YLPSoZzz__5aYTgX450JVvW-7nnARSMMnDxm0ZYUR7MTAfYgXkrzQVMvjwgJmHmYtA8qADtXl6qJUMzq1vWr1Rz7l7vDSmn6kvEXWOZ1P68c89bNRaQfxyFY6jk62EKiYmqPrJNn2yMHEGTlkgFjU6jI8r1mXE6dzxTIxzy8AwqWPXHJaZU0cKKN6IrQ%3D%3D&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAHoECEIQAg"
+      },
+      {
+        "text": "Victor Bahl",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Victor+Bahl&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6Xk3LlKen0e3QxIzOlw7HQt-UGV_nnOsItYv2Xyxa3eX8OqETpCx0HG4hbDX9I8L3HdBVFNcW8T3Zwb96zuYKPTRtyZxQObaVFzPaTtIAbVpaZpZxPsqPUTnxtE_JxuFoNelbCfZdegJb9j_NbujWZduRS63d0m_eKHNF7CBMNh1-mjx88Xr8IYOicSUrR9_pYc6U5XW7DhiEFKke7g65tel7c7BbQo5miDykQ7HEbQtUavZtBQ%3D%3D&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAXoECEIQAw"
+      }
+    ],
+    "president": "Bradford L. Smith",
+    "president_links": [
+      {
+        "text": "Bradford L. Smith",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Bradford+L.+Smith&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQZ1WK_GBv4MmBsSF98sgyy8NzS158DI6_-XQErrDoEdOZVLYeHmpLe0sP-yzRBQ39JP5yXZe2SbvxglRczp42Jt5kw7maIbP4UBooAe3ZLSLFSU1U9Mu9AI9CfVuDOC7PpRYqcXPumtNgnu64VEgHsH77iMCHgiLpq7NBnMzm-qAsBfGiw%3D%3D&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAHoECEMQAg"
+      }
+    ],
+    "founders": "Bill Gates, Paul Allen",
+    "founders_links": [
+      {
+        "text": "Bill Gates",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Bill+Gates&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7vF3QXdt07lzhX1NZdQQ7vkuYV5JuwBFD4tZmK_lVDmi5T9gzbA1Uge8cMGv2KNq7PBKFWKJkfwsfTWdc6g3VcAhGkU3jIMkVib54i4e5DVlHP7FCh0urPhgBGUYBmPrgHnaNelO18ceckSe-GaCoCGwGKxAM1wUH6kfmQk9Jg8ZuE9-tR89E2frz6ke5anItgVWUZnBG9iQqKAPmyuBWcgmvKE&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAHoECEQQAg"
+      },
+      {
+        "text": "Paul Allen",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Paul+Allen&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm470bas_Jwb6FkwpqOP5GUhozBqk5Sa0aXqRw19kIoMZSJEndLeqr4-Rx1zVk1FTzKsVaZC6Ore7Hs1eP92vRGs2w8eNLLyGjDsqxyMXMwVsSZ5vl6p7bQGgsPS0DBDoqGqW-TNvvwfEU3CSxUzMDSvcJNds1cky2xtizsWvfpOdPMmDh5wgUnZODDaDX2oN_dgaDX6uC-4NyZjTMc7CX0aVGdGN&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQmxMoAXoECEQQAw"
+      }
+    ],
+    "customer_service_chat": "Online Chat",
+    "customer_service_chat_links": [
+      {
+        "text": "Online Chat",
+        "link": "https://support.microsoft.com/en-us/contact/virtual-agent/"
+      }
+    ],
+    "stock_price": "MSFT (NASDAQ) $437.03 -0.36 (-0.08%)Dec 19, 4 - 00 PM EST - Disclaimer",
+    "stock_price_links": [
+      {
+        "text": "MSFT",
+        "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=NASDAQ:+MSFT&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNzKty8uIteRax8vg5Brs4Blop-Aa7hQAAJFwipEkAAAA&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQsRV6BAg9EAI"
+      },
+      {
+        "text": "Disclaimer",
+        "link": "https://www.google.com/intl/en-US_US/googlefinance/disclaimer/"
+      }
+    ],
+    "web_results": [
+      {
+        "link": "https://en.wikipedia.org/wiki/Microsoft"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "How do I speak to a real person at Microsoft?",
+      "snippet": "Sign in to Microsoft 365 admin center with your Microsoft 365 admin account, and select Support > Help and support, enter your question and select Contact support. If you're an admin on the account you can also call (800) 865-9408 (toll-free, US only).",
+      "title": "Contact Microsoft Office Support",
+      "link": "https://support.microsoft.com/en-us/topic/contact-microsoft-office-support-fd6bb40e-75b7-6f43-d6f9-c13d10850e77#:~:text=Sign%20in%20to%20Microsoft%20365,%2Dfree%2C%20US%20only).",
+      "displayed_link": "https://support.microsoft.com › en-us › topic › contact-m...",
+      "source_logo": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/1d89d6a711d283cb70d0bf83ebedb985d43b8ebeb75530f6efdd6fd3dcd05adc.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgc3BlYWsgdG8gYSByZWFsIHBlcnNvbiBhdCBNaWNyb3NvZnQ/IiwibGsiOiJHaXhvYjNjZ1pHOGdhU0J6Y0dWaGF5QjBieUJoSUhKbFlXd2djR1Z5YzI5dUlHRjBJRzFwWTNKdmMyOW1kQSIsImJzIjoiYzMyUFN3ckNNQkNHY1p1VnkxSmNUSzJQalFyMkFnVVJmSUNJM2lEV2FSdE1NNUpFeFdONUVvX2dCVHlFRGFJVkJYY0Q4MzNfX01NMnJELWxFMndKWm1EMnlIZGdDVGhvNUJMMnFBMHA0QllXSXRGa0tMV3hkd21qZ2RfTG40NzQ0eFF2aDgxWk1ETlZCaXpUVkNRSXFVWUVyczRGYVl5OTZ6SnEtaUJNNVFIOWNtekZ1dS0ta2pLaDNPM2lfSkhPazRRT3FteDZIMGFoSDdpbUpWS3gzeUJic19hWTBNQklTQWtUYnN2UldEZm5fSWlmcjk4YVVjZHZiUjI3Y2Z2c20zMW4xMnNQIiwiaWQiOiJmY19ITFJrWi1EQkhkVFIwLWtQeFBteGdRZ18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgc3BlYWsgdG8gYSByZWFsIHBlcnNvbiBhdCBNaWNyb3NvZnQ%2FIiwibGsiOiJHaXhvYjNjZ1pHOGdhU0J6Y0dWaGF5QjBieUJoSUhKbFlXd2djR1Z5YzI5dUlHRjBJRzFwWTNKdmMyOW1kQSIsImJzIjoiYzMyUFN3ckNNQkNHY1p1VnkxSmNUSzJQalFyMkFnVVJmSUNJM2lEV2FSdE1NNUpFeFdONUVvX2dCVHlFRGFJVkJYY0Q4MzNfX01NMnJELWxFMndKWm1EMnlIZGdDVGhvNUJMMnFBMHA0QllXSXRGa0tMV3hkd21qZ2RfTG40NzQ0eFF2aDgxWk1ETlZCaXpUVkNRSXFVWUVyczRGYVl5OTZ6SnEtaUJNNVFIOWNtekZ1dS0ta2pLaDNPM2lfSkhPazRRT3FteDZIMGFoSDdpbUpWS3gzeUJic19hWTBNQklTQWtUYnN2UldEZm5fSWlmcjk4YVVjZHZiUjI3Y2Z2c20zMW4xMnNQIiwiaWQiOiJmY19ITFJrWi1EQkhkVFIwLWtQeFBteGdRZ18zIn0%3D"
+    },
+    {
+      "question": "Is Microsoft Office free anymore?",
+      "snippet": "Microsoft office is not free however you can use the free version of office 365 on web which provides you the basic versions of word,excel,one note etc for free.At the new Office.com, you can use basic versions of Word, Excel, PowerPoint, and OneNote for free in your browser.",
+      "title": "Why Microsoft office desktop is not free for the public to use? - Quora",
+      "date": "Aug 11, 2024",
+      "link": "https://www.quora.com/Why-Microsoft-office-desktop-is-not-free-for-the-public-to-use#:~:text=Microsoft%20office%20is%20not%20free%20however%20you%20can%20use%20the,for%20free%20in%20your%20browser.",
+      "displayed_link": "https://www.quora.com › Why-Microsoft-office-desktop...",
+      "source_logo": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/1d89d6a711d283cb70d0bf83ebedb9851d54c7d404fb8501aeb789b683326e9a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiSXMgTWljcm9zb2Z0IE9mZmljZSBmcmVlIGFueW1vcmU/IiwibGsiOiJHaUJwY3lCdGFXTnliM052Wm5RZ2IyWm1hV05sSUdaeVpXVWdZVzU1Ylc5eVpRIiwiYnMiOiJjMzJQU3dyQ01CQ0djWnVWeTFKY1RLMlBqUXIyQWdVUmZJQ0kzaURXYVJ0TU01SkV4V041RW9fZ0JUeUVEYUlWQlhjRDgzM19fTU0yckQtbEUyd0pabUQyeUhkZ0NUaG81QkwycUEwcDRCWVdJdEZrS0xXeGR3bWpnZF9MbjQ3NDR4UXZoODFaTUROVkJpelRWQ1FJcVVZRXJzNEZhWXk5NnpKcS1pQk01UUg5Y216RnV1LS1raktoM08zaV9KSE9rNFFPcW14NkgwYWhIN2ltSlZLeDN5QmJzX2FZME1CSVNBa1Ric3ZSV0Rmbl9JaWZyOThhVWNkdmJSMjdjZnZzbTMxbjEyc1AiLCJpZCI6ImZjX0hMUmtaLURCSGRUUjAta1B4UG14Z1FnXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiSXMgTWljcm9zb2Z0IE9mZmljZSBmcmVlIGFueW1vcmU%2FIiwibGsiOiJHaUJwY3lCdGFXTnliM052Wm5RZ2IyWm1hV05sSUdaeVpXVWdZVzU1Ylc5eVpRIiwiYnMiOiJjMzJQU3dyQ01CQ0djWnVWeTFKY1RLMlBqUXIyQWdVUmZJQ0kzaURXYVJ0TU01SkV4V041RW9fZ0JUeUVEYUlWQlhjRDgzM19fTU0yckQtbEUyd0pabUQyeUhkZ0NUaG81QkwycUEwcDRCWVdJdEZrS0xXeGR3bWpnZF9MbjQ3NDR4UXZoODFaTUROVkJpelRWQ1FJcVVZRXJzNEZhWXk5NnpKcS1pQk01UUg5Y216RnV1LS1raktoM08zaV9KSE9rNFFPcW14NkgwYWhIN2ltSlZLeDN5QmJzX2FZME1CSVNBa1Ric3ZSV0Rmbl9JaWZyOThhVWNkdmJSMjdjZnZzbTMxbjEyc1AiLCJpZCI6ImZjX0hMUmtaLURCSGRUUjAta1B4UG14Z1FnXzMifQ%3D%3D"
+    },
+    {
+      "question": "How do I login to my Microsoft account?",
+      "snippet": "",
+      "title": "How to sign in to a Microsoft account",
+      "link": "https://support.microsoft.com/en-us/account-billing/how-to-sign-in-to-a-microsoft-account-2ffedaca-6e1b-bc18-f28c-58539e1cb6d3",
+      "list": [
+        "To sign in to your Microsoft personal account, go to account.microsoft.com or select Sign in below. Sign in. ... ",
+        "Enter your email, phone number, or Skype sign-in that you use for other services (Outlook, Excel, etc.), then select Next. ... ",
+        "Enter your password and select Sign in."
+      ],
+      "displayed_link": "https://support.microsoft.com › en-us › account-billing",
+      "source_logo": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/1d89d6a711d283cb70d0bf83ebedb985cd3a724f5c409a403ea40d85be9831e3.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgbG9naW4gdG8gbXkgTWljcm9zb2Z0IGFjY291bnQ/IiwibGsiOiJjNU5Tek1ndlZ5akpWOGpKVDhfTUF6RnlNNU9MOG92ejAwb1VFcE9UODB2elNnQSIsImJzIjoiYzMyUFN3ckNNQkNHY1p1VnkxSmNUSzJQalFyMkFnVVJmSUNJM2lEV2FSdE1NNUpFeFdONUVvX2dCVHlFRGFJVkJYY0Q4MzNfX01NMnJELWxFMndKWm1EMnlIZGdDVGhvNUJMMnFBMHA0QllXSXRGa0tMV3hkd21qZ2RfTG40NzQ0eFF2aDgxWk1ETlZCaXpUVkNRSXFVWUVyczRGYVl5OTZ6SnEtaUJNNVFIOWNtekZ1dS0ta2pLaDNPM2lfSkhPazRRT3FteDZIMGFoSDdpbUpWS3gzeUJic19hWTBNQklTQWtUYnN2UldEZm5fSWlmcjk4YVVjZHZiUjI3Y2Z2c20zMW4xMnNQIiwiaWQiOiJmY19ITFJrWi1EQkhkVFIwLWtQeFBteGdRZ18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgbG9naW4gdG8gbXkgTWljcm9zb2Z0IGFjY291bnQ%2FIiwibGsiOiJjNU5Tek1ndlZ5akpWOGpKVDhfTUF6RnlNNU9MOG92ejAwb1VFcE9UODB2elNnQSIsImJzIjoiYzMyUFN3ckNNQkNHY1p1VnkxSmNUSzJQalFyMkFnVVJmSUNJM2lEV2FSdE1NNUpFeFdONUVvX2dCVHlFRGFJVkJYY0Q4MzNfX01NMnJELWxFMndKWm1EMnlIZGdDVGhvNUJMMnFBMHA0QllXSXRGa0tMV3hkd21qZ2RfTG40NzQ0eFF2aDgxWk1ETlZCaXpUVkNRSXFVWUVyczRGYVl5OTZ6SnEtaUJNNVFIOWNtekZ1dS0ta2pLaDNPM2lfSkhPazRRT3FteDZIMGFoSDdpbUpWS3gzeUJic19hWTBNQklTQWtUYnN2UldEZm5fSWlmcjk4YVVjZHZiUjI3Y2Z2c20zMW4xMnNQIiwiaWQiOiJmY19ITFJrWi1EQkhkVFIwLWtQeFBteGdRZ18zIn0%3D"
+    },
+    {
+      "question": "Does Bill Gates still have Microsoft?",
+      "snippet": "Bill Gates still owns more than 1% of Microsoft's shares, worth more than $40 billion as of August 2024. A lot of his financial investments are held by a family office known as Cascade Investments. Gates also has substantial real estate holdings and an extensive collection of collectibles.",
+      "title": "Where Does Bill Gates Keep His Money? - Investopedia",
+      "date": "Sep 27, 2024",
+      "link": "https://www.investopedia.com/articles/personal-finance/111214/where-does-bill-gates-keep-his-money.asp#:~:text=Bill%20Gates%20still%20owns%20more,an%20extensive%20collection%20of%20collectibles.",
+      "displayed_link": "https://www.investopedia.com › articles › personal-finance",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByAesmzXBxlKMQim9uxOYzf5MsUM3afbVW3BnuJsc3Q&s",
+      "source_logo": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/1d89d6a711d283cb70d0bf83ebedb985e917a378ade4dc4b6ff5ea86d3f5d132.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiRG9lcyBCaWxsIEdhdGVzIHN0aWxsIGhhdmUgTWljcm9zb2Z0PyIsImxrIjoiYzVOU1NjbFBMVlpJeXN6SlVVaFBMQUV5aTB0QTdJekVzbFNGM016a292emlfTFFTQUEiLCJicyI6ImMzMlBTd3JDTUJDR2NadVZ5MUpjVEsyUGpRcjJBZ1VSZklDSTNpRFdhUnRNTTVKRXhXTjVFb19nQlR5RURhSVZCWGNEODMzX19NTTJyRC1sRTJ3SlptRDJ5SGRnQ1RobzVCTDJxQTBwNEJZV0l0RmtLTFd4ZHdtamdkX0xuNDc0NHhRdmg4MVpNRE5WQml6VFZDUUlxVVlFcnM0RmFZeTk2ekpxLWlCTTVRSDljbXpGdXUtLWtqS2gzTzNpX0pIT2s0UU9xbXg2SDBhaEg3aW1KVkt4M3lCYnNfYVkwTUJJU0FrVGJzdlJXRGZuX0lpZnI5OGFVY2R2YlIyN2NmdnNtMzFuMTJzUCIsImlkIjoiZmNfSExSa1otREJIZFRSMC1rUHhQbXhnUWdfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210T1JuUm9hbTkxUjNRM2NrSk9ja1JmVUc1b1IycDRNbWhwVWxSMWIycHRTelJFVjJ0WmFYQkVZbEpWVG04M05tTnhWMjVXT0ZsaVMySk9jSHBoYkRaRFZIcHhOMGR2T0VSemJrZzBYelp3ZFVoeVRETnBVbGMzTFhKaFVSSVhTRXhTYTFvdFJFSklaRlJTTUMxclVIaFFiWGhuVVdjYUlrRkdXSEpGWTNGcVV6ZFdTbWxSWVZFNFNURTVNMjk0TTI5NE5YUmhVSFpLTkVFIiwiZmN2IjoiMyIsImVpIjoiSExSa1otREJIZFRSMC1rUHhQbXhnUWciLCJxYyI6IkNnbHRhV055YjNOdlpuUVFBSDNxRlVnXyIsInF1ZXN0aW9uIjoiRG9lcyBCaWxsIEdhdGVzIHN0aWxsIGhhdmUgTWljcm9zb2Z0PyIsImxrIjoiYzVOU1NjbFBMVlpJeXN6SlVVaFBMQUV5aTB0QTdJekVzbFNGM016a292emlfTFFTQUEiLCJicyI6ImMzMlBTd3JDTUJDR2NadVZ5MUpjVEsyUGpRcjJBZ1VSZklDSTNpRFdhUnRNTTVKRXhXTjVFb19nQlR5RURhSVZCWGNEODMzX19NTTJyRC1sRTJ3SlptRDJ5SGRnQ1RobzVCTDJxQTBwNEJZV0l0RmtLTFd4ZHdtamdkX0xuNDc0NHhRdmg4MVpNRE5WQml6VFZDUUlxVVlFcnM0RmFZeTk2ekpxLWlCTTVRSDljbXpGdXUtLWtqS2gzTzNpX0pIT2s0UU9xbXg2SDBhaEg3aW1KVkt4M3lCYnNfYVkwTUJJU0FrVGJzdlJXRGZuX0lpZnI5OGFVY2R2YlIyN2NmdnNtMzFuMTJzUCIsImlkIjoiZmNfSExSa1otREJIZFRSMC1rUHhQbXhnUWdfMyJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+      "link": "https://www.microsoft.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQFnoECAsQAQ&usg=AOvVaw2rml24tGiymaB5FXrBMwY4",
+      "displayed_link": "https://www.microsoft.com",
+      "favicon": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a31813d7ace3e82639cd0a5fcacfab3f2fb01c.png",
+      "snippet": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
+      "snippet_highlighted_words": ["Microsoft", "Microsoft"],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Xbox",
+            "link": "https://www.microsoft.com/en-us/store/b/xbox",
+            "snippet": "Xbox · Xbox Series X – The fastest, most powerful Xbox ever ..."
+          },
+          {
+            "title": "Account",
+            "link": "https://account.microsoft.com/account/Account",
+            "snippet": "Sign In with your Microsoft account. One account. One place to ..."
+          },
+          {
+            "title": "Support",
+            "link": "https://support.microsoft.com/en-us",
+            "snippet": "Microsoft support is here to help you with Microsoft products ..."
+          },
+          {
+            "title": "Careers",
+            "link": "https://careers.microsoft.com/",
+            "snippet": "https://uhf.microsoft.com/en-US/shell/xml/MSActionCenter ..."
+          },
+          {
+            "title": "Microsoft 365",
+            "link": "https://www.microsoft.com/en-us/microsoft-365",
+            "snippet": "Microsoft 365 subscriptions include a set of familiar ..."
+          }
+        ]
+      },
+      "source": "Microsoft",
+      "latest_news": [
+        {
+          "title": "Convincing a billion users to love passkeys: UX design insights from Microsoft to boost adoption and security",
+          "link": "https://www.microsoft.com/en-us/security/blog/2024/12/12/convincing-a-billion-users-to-love-passkeys-ux-design-insights-from-microsoft-to-boost-adoption-and-security/",
+          "thumbnail": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a31813c4d4a2a1cf1a9af8cf8408d277b059b93712d5df86a5e0dbeec3ca79359d6403.jpeg",
+          "date": "1 week ago",
+          "source": "Microsoft",
+          "source_logo": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a31813c4d4a2a1cf1a9af8cf8408d277b059b99b27c12172d8c5bf9aafc811b0d2e15a.png"
+        },
+        {
+          "title": "GitHub Copilot Free is here in Visual Studio",
+          "link": "https://devblogs.microsoft.com/visualstudio/github-copilot-free-is-here-in-visual-studio/",
+          "thumbnail": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a31813c4d4a2a1cf1a9af8474d0b4e5ad7d4fec071b5d0464811e3e27b743460aea335.jpeg",
+          "date": "1 day ago",
+          "source": "Microsoft",
+          "source_logo": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a31813c4d4a2a1cf1a9af8474d0b4e5ad7d4fee857bd50161b2fc7f7b58358b3cd6cef.png"
+        },
+        {
+          "title": "Sustainable by design: Next-generation datacenters consume zero water for cooling",
+          "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/",
+          "thumbnail": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a31813c4d4a2a1cf1a9af87968e2bae0aad9a63a23eb7b4b47f843120d43b05a423090.jpeg",
+          "date": "1 week ago",
+          "source": "Microsoft",
+          "source_logo": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a31813c4d4a2a1cf1a9af87968e2bae0aad9a61f9a65873311050cdbc1ab3b19788435.png"
+        },
+        {
+          "title": "Frequent freeloader part I: Secret Blizzard compromising Storm-0156 infrastructure for espionage",
+          "link": "https://www.microsoft.com/en-us/security/blog/2024/12/04/frequent-freeloader-part-i-secret-blizzard-compromising-storm-0156-infrastructure-for-espionage/",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTInG-L2XEXxpzMiTl61c4jck1IJo58KFtqdjgvR2vOOkhTE8OvwfwDPItm&usqp=CAI&s",
+          "date": "2 weeks ago",
+          "source": "Microsoft",
+          "source_logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.microsoft.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        {
+          "title": "Effortlessly access cloud resources across Azure tenants without using secrets",
+          "link": "https://devblogs.microsoft.com/identity/access-cloud-resources-across-tenants-without-secrets/",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAj9p4q7kYa3cgSeDnrlkiWpvEz52zIIKkMy83GMNzzdIVnxEJvDQbnMpo&usqp=CAI&s",
+          "date": "1 day ago",
+          "source": "Microsoft",
+          "source_logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://devblogs.microsoft.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        {
+          "title": "Announcing SPARROW: A Breakthrough AI Tool to Measure and Protect Earth’s Biodiversity in the Most Remote Places",
+          "link": "https://blogs.microsoft.com/on-the-issues/2024/12/18/announcing-sparrow-a-breakthrough-ai-tool-to-measure-and-protect-earths-biodiversity-in-the-most-remote-places/",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBjkIU7uNlTLHgjRCEESvkaWMYCgmps5DBFihpt6ixy9T5nLzTYLfY-Mm&usqp=CAI&s",
+          "date": "1 day ago",
+          "source": "The Official Microsoft Blog",
+          "source_logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blogs.microsoft.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        {
+          "title": "December 10, 2024—KB5048667 (OS Build 26100.2605)",
+          "link": "https://support.microsoft.com/en-us/topic/december-10-2024-kb5048667-os-build-26100-2605-708755a6-d809-4a8a-8d20-53c4108590e6",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxIEk10tfn7C4NZsI6iEOZ8rw8nYJ00sJ_fyk_s_-iRPXaDLGJufoxBpE-&usqp=CAI&s",
+          "date": "1 week ago",
+          "source": "Microsoft Support",
+          "source_logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://support.microsoft.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Microsoft 365: Login",
+      "link": "https://www.office.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.office.com/&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQFnoECFQQAQ&usg=AOvVaw297op3g8pyu3qja2RPtXVz",
+      "displayed_link": "https://www.office.com",
+      "favicon": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a318133d535af5e895ef90673ebc1e5f82f4e0.png",
+      "snippet": "The Microsoft 365 app (formerly Office) lets you create, share, and collaborate all in one place with your favorites apps now including Copilot.",
+      "snippet_highlighted_words": ["Microsoft"],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Microsoft To Do",
+            "link": "https://to-do.office.com/tasks/"
+          },
+          {
+            "title": "Microsoft Forms",
+            "link": "https://forms.office.com/"
+          },
+          {
+            "title": "Microsoft Office",
+            "link": "https://www.office.com/?trysignin=0"
+          },
+          {
+            "title": "Microsoft Office 365",
+            "link": "https://www.office.com/?ref=logout"
+          }
+        ]
+      },
+      "source": "Office 365"
+    },
+    {
+      "position": 3,
+      "title": "Xbox Official Site: Consoles, Games, and Community | Xbox",
+      "link": "https://www.xbox.com/en-US",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.xbox.com/en-US&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQFnoECFUQAQ&usg=AOvVaw32mPslPbFttfvIj4CLvvgZ",
+      "displayed_link": "https://www.xbox.com › en-US",
+      "favicon": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a318135b88bd266d0f81f54576d418000d4615.png",
+      "snippet": "Play new games on day one. Enjoy hundreds of high-quality games on console, PC, and cloud. Play together with friends.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Xbox Live",
+            "link": "https://www.xbox.com/en-US/live"
+          },
+          {
+            "title": "Microsoft Store",
+            "link": "https://www.xbox.com/en-US/microsoft-store"
+          },
+          {
+            "title": "Microsoft Flight Simulator",
+            "link": "https://www.xbox.com/en-US/games/microsoft-flight-simulator"
+          },
+          {
+            "title": "Xbox Live Gold",
+            "link": "https://www.xbox.com/en-US/live/gold"
+          }
+        ]
+      },
+      "source": "Xbox.com"
+    },
+    {
+      "position": 4,
+      "title": "Microsoft",
+      "link": "https://www.linkedin.com/company/microsoft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/microsoft&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQFnoECFgQAQ&usg=AOvVaw3NjB8e6CWa8eeFnfO_k3Hq",
+      "displayed_link": "24.2M+ followers",
+      "favicon": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a3181331eaa38303e23f116088a5c67d4ce08f.png",
+      "snippet": "About us · Website: https://news.microsoft.com/ · Industry: Software Development · Company size: 10,001+ employees · Headquarters: Redmond, Washington · Type ...",
+      "snippet_highlighted_words": ["microsoft"],
+      "source": "LinkedIn · Microsoft"
+    },
+    {
+      "position": 5,
+      "title": "Microsoft",
+      "link": "https://en.wikipedia.org/wiki/Microsoft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Microsoft&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQFnoECFYQAQ&usg=AOvVaw0iAagMtn5pSQMjXg6mrnUG",
+      "displayed_link": "https://en.wikipedia.org › wiki › Microsoft",
+      "favicon": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a3181332eb37179578e867894f18d93613a729.png",
+      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became highly ...",
+      "snippet_highlighted_words": ["Microsoft"],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Microsoft Windows",
+            "link": "https://en.wikipedia.org/wiki/Microsoft_Windows"
+          },
+          {
+            "title": "The History of Microsof",
+            "link": "https://en.wikipedia.org/wiki/History_of_Microsoft"
+          },
+          {
+            "title": "Timeline of Microsoft",
+            "link": "https://en.wikipedia.org/wiki/Timeline_of_Microsoft"
+          },
+          {
+            "title": "Microsoft Office",
+            "link": "https://en.wikipedia.org/wiki/Microsoft_Office"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 6,
+      "title": "Microsoft Corp (MSFT) Stock Price & News - Google Finance",
+      "link": "https://www.google.com/finance/quote/MSFT:NASDAQ?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/finance/quote/MSFT:NASDAQ%3Fhl%3Den&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQFnoECF0QAQ&usg=AOvVaw1pUzWLNFkFAQMxm1YrHn97",
+      "displayed_link": "https://www.google.com › quote › MSFT:NASDAQ",
+      "favicon": "https://serpapi.com/searches/6764b41b6d75fcded9955430/images/3c88c800904f2c064c1fdb65c9a3181360233cf792456e31da28376421e63d5b.png",
+      "snippet": "Microsoft is the largest software maker, one of the most valuable public US companies, and one of the most valuable brands globally.",
+      "snippet_highlighted_words": ["Microsoft"],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 437.03,
+            "currency": "$"
+          },
+          "extensions": ["$437.03", "Free delivery"]
+        }
+      },
+      "source": "Google"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Microsoft login",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+login&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+login"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft 365",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+365&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+365"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft Word",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+Word&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+Word"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft account",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+account&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+account"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft Outlook",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+Outlook&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+Outlook"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft Store",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+Store&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+Store"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft Office",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+Office&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+Office"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft Teams",
+      "link": "https://www.google.com/search?sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&q=Microsoft+Teams&sa=X&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft+Teams"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Microsoft&sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&ei=HLRkZ-DBHdTR0-kPxPmxgQg&start=10&sa=N&sstk=ATObxK7_7f7NUmbMOVkV82I5n91XcHiEmXCsoccuSqtxtV0cSGFx1sKtkdjI1Y7hm-spJpfEt4bIDxYLKjR3Bgj5ucX0tZEUg2DMww&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ8NMDegQIUBAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Microsoft&sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&ei=HLRkZ-DBHdTR0-kPxPmxgQg&start=10&sa=N&sstk=ATObxK7_7f7NUmbMOVkV82I5n91XcHiEmXCsoccuSqtxtV0cSGFx1sKtkdjI1Y7hm-spJpfEt4bIDxYLKjR3Bgj5ucX0tZEUg2DMww&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ8tMDegQIUBAE",
+      "3": "https://www.google.com/search?q=Microsoft&sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&ei=HLRkZ-DBHdTR0-kPxPmxgQg&start=20&sa=N&sstk=ATObxK7_7f7NUmbMOVkV82I5n91XcHiEmXCsoccuSqtxtV0cSGFx1sKtkdjI1Y7hm-spJpfEt4bIDxYLKjR3Bgj5ucX0tZEUg2DMww&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ8tMDegQIUBAG",
+      "4": "https://www.google.com/search?q=Microsoft&sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&ei=HLRkZ-DBHdTR0-kPxPmxgQg&start=30&sa=N&sstk=ATObxK7_7f7NUmbMOVkV82I5n91XcHiEmXCsoccuSqtxtV0cSGFx1sKtkdjI1Y7hm-spJpfEt4bIDxYLKjR3Bgj5ucX0tZEUg2DMww&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ8tMDegQIUBAI",
+      "5": "https://www.google.com/search?q=Microsoft&sca_esv=55f4a9c6b48bdacd&hl=en&gl=us&ei=HLRkZ-DBHdTR0-kPxPmxgQg&start=40&sa=N&sstk=ATObxK7_7f7NUmbMOVkV82I5n91XcHiEmXCsoccuSqtxtV0cSGFx1sKtkdjI1Y7hm-spJpfEt4bIDxYLKjR3Bgj5ucX0tZEUg2DMww&ved=2ahUKEwjgv57qhbWKAxXU6DQHHcR8LIAQ8tMDegQIUBAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Microsoft&start=40"
+    }
+  }
+}
